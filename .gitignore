@@ -1,0 +1,16 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.env
+
+# Temporary JSONs
+temp_*.json
+test_*.json
+qe_*.json
+
+# OS specific
+Thumbs.db
+Desktop.ini
+.DS_Store

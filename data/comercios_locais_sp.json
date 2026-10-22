@@ -1,0 +1,3398 @@
+{
+  "Mercados e Mercearias": [
+    {
+      "position": 7,
+      "title": "✨Mercado Sussai✨",
+      "address": "R. Leopoldino de Faria, 89 - Jardim Santa Teresinha, São Paulo - SP, 08430-140, Brasil",
+      "latitude": -23.5240381,
+      "longitude": -46.4235238,
+      "rating": 4.8,
+      "ratingCount": 14,
+      "type": "Mercado",
+      "types": [
+        "Mercado"
+      ],
+      "phoneNumber": "+55 11 2511-4040",
+      "openingHours": {
+        "quinta-feira": "07:00–21:00",
+        "sexta-feira": "07:00–21:00",
+        "sábado": "07:00–21:00",
+        "domingo": "07:00–19:00",
+        "segunda-feira": "07:00–21:00",
+        "terça-feira": "07:00–21:00",
+        "quarta-feira": "07:00–21:00"
+      },
+      "isUnclaimedListing": true,
+      "thumbnailUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLddEkIEavoCqBk1V171Eg0CoCMya2neZI3saMs7qLxagY32R9sX_2BoHgD3Guynfz36HBa_aMF8qv6hh0gZnh12zUPP312UZDD5Flcp9nypZjpVqLnJ_Vy5J6Bsw5_tm37nSvFbi88JZE4",
+      "cid": "6957528490440376292",
+      "fid": "0x94ce6412405ea7c7:0x608e1b4cab5bbfe4",
+      "placeId": "ChIJx6deQBJkzpQR5L9bq0wbjmA",
+      "distance_meters": 211
+    },
+    {
+      "position": 16,
+      "title": "Mercado sarah",
+      "address": "R. Maria Amélia de Assunção - Jardim Etelvina, São Paulo - SP, 08430-560, Brasil",
+      "latitude": -23.5283792,
+      "longitude": -46.4227487,
+      "type": "Mercado",
+      "types": [
+        "Mercado"
+      ],
+      "phoneNumber": "+55 11 97236-0109",
+      "openingHours": {
+        "quinta-feira": "07:00–21:00",
+        "sexta-feira": "07:00–21:00",
+        "sábado": "07:00–21:00",
+        "domingo": "08:00–15:00",
+        "segunda-feira": "19:00–21:00",
+        "terça-feira": "07:00–21:00",
+        "quarta-feira": "07:00–21:00"
+      },
+      "cid": "12387591311744020085",
+      "fid": "0x94ce650fe249c4c7:0xabe990aa6f37ae75",
+      "placeId": "ChIJx8RJ4g9lzpQRda43b6qQ6as",
+      "distance_meters": 338
+    },
+    {
+      "position": 15,
+      "title": "Mercado Waldir Lima",
+      "address": "Rua Carlo Mannelli, 551 - Jardim Gianetti, São Paulo - SP, 08430-290, Brasil",
+      "latitude": -23.5226,
+      "longitude": -46.425161499999994,
+      "rating": 4.5,
+      "ratingCount": 216,
+      "type": "Mercado",
+      "types": [
+        "Mercado"
+      ],
+      "openingHours": {
+        "quinta-feira": "07:00–20:00",
+        "sexta-feira": "07:00–20:00",
+        "sábado": "07:00–20:00",
+        "domingo": "07:00–14:00",
+        "segunda-feira": "07:00–20:00",
+        "terça-feira": "07:00–20:00",
+        "quarta-feira": "07:00–20:00"
+      },
+      "thumbnailUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLfmXZHV3sdBlrGZU_A_MZ_moWqIampda-0PMBbiaBCgYkVBo8vvbnRDj0Xct975KcQOdyApFLodSD6cNo1_q8RV5CLi-OyynV75SxYP0b1nerLFi3Y6DX1OWP_JfoPvLAbVCREy",
+      "cid": "16165910140767906582",
+      "fid": "0x94ce640e05f6103b:0xe058d99f535b2b16",
+      "placeId": "ChIJOxD2BQ5kzpQRFitbU5_ZWOA",
+      "distance_meters": 358
+    },
+    {
+      "position": 17,
+      "title": "Mercado Shetra",
+      "address": "R. Santa Etelvina, 148 - Jd Centenário, São Paulo - SP, 08430-020, Brasil",
+      "latitude": -23.5249244,
+      "longitude": -46.4290373,
+      "rating": 3.8,
+      "ratingCount": 30,
+      "type": "Mercado",
+      "types": [
+        "Mercado"
+      ],
+      "phoneNumber": "+55 11 97750-8004",
+      "openingHours": {
+        "quinta-feira": "08:00–22:00",
+        "sexta-feira": "08:00–22:00",
+        "sábado": "08:00–22:00",
+        "domingo": "08:00–18:00",
+        "segunda-feira": "08:00–22:00",
+        "terça-feira": "08:00–22:00",
+        "quarta-feira": "08:00–22:00"
+      },
+      "isUnclaimedListing": true,
+      "cid": "1091241448745361051",
+      "fid": "0x94ce6413fd411b55:0xf24de50e4a65e9b",
+      "placeId": "ChIJVRtB_RNkzpQRm16m5FDeJA8",
+      "distance_meters": 479
+    },
+    {
+      "position": 6,
+      "title": "Mercado Madureira",
+      "address": "R. Padre Nildo do Amaral Júnior, 685 - Vila Nova Curuca, São Paulo - SP, 08032-650, Brasil",
+      "latitude": -23.521496799999998,
+      "longitude": -46.426378,
+      "rating": 4.3,
+      "ratingCount": 44,
+      "type": "Mercado",
+      "types": [
+        "Mercado"
+      ],
+      "phoneNumber": "+55 11 96402-5729",
+      "openingHours": {
+        "quinta-feira": "08:00–21:00",
+        "sexta-feira": "08:00–21:00",
+        "sábado": "08:00–21:00",
+        "domingo": "08:00–19:00",
+        "segunda-feira": "08:00–21:00",
+        "terça-feira": "08:00–21:00",
+        "quarta-feira": "08:00–21:00"
+      },
+      "isUnclaimedListing": true,
+      "thumbnailUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLc0osLVsn_0dMomgrEW9b8xcEmQ08UD5HgpNU8noz-KsCrGu9VNsuryG8DlkJmhzsnmCJC6Q5czE0_IiudZPriIJ46A_BN-ctqNjvzIpB-ANppGVbhzRLVhnYqlgYRRyWTlKKIhTQ",
+      "cid": "6449114294619616703",
+      "fid": "0x94ce640e5f0e6a9d:0x597fdb4836b235bf",
+      "placeId": "ChIJnWoOXw5kzpQRvzWyNkjbf1k",
+      "distance_meters": 513
+    },
+    {
+      "position": 10,
+      "title": "Mercado Primavera",
+      "address": "R. Maxímiano Brandão, 66 - Jardim Etelvina, São Paulo - SP, 08430-590, Brasil",
+      "latitude": -23.5304401,
+      "longitude": -46.422765299999995,
+      "rating": 4.8,
+      "ratingCount": 11,
+      "type": "Mercado",
+      "types": [
+        "Mercado"
+      ],
+      "openingHours": {
+        "quinta-feira": "07:30–20:30",
+        "sexta-feira": "07:30–20:30",
+        "sábado": "07:30–20:30",
+        "domingo": "07:30–14:30",
+        "segunda-feira": "07:30–20:30",
+        "terça-feira": "07:30–20:30",
+        "quarta-feira": "07:30–20:30"
+      },
+      "isUnclaimedListing": true,
+      "thumbnailUrl": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=5ClW3thTqDEgeuPVsNw7Qg&cb_client=search.gws-prod.grass&w=80&h=92&yaw=144.46617&pitch=0.27554828&thumbfov=100",
+      "cid": "11613306259324201771",
+      "fid": "0x94ce65afd64e1491:0xa12ac0834ed6eb2b",
+      "placeId": "ChIJkRRO1q9lzpQRK-vWToPAKqE",
+      "distance_meters": 548
+    },
+    {
+      "position": 12,
+      "title": "Supermercado Amigo da Gente",
+      "address": "Rua Santa Etelvina, 10 - Jardim Santa Terezinha, São Paulo - SP, 08430-020, Brasil",
+      "latitude": -23.52454,
+      "longitude": -46.4299195,
+      "rating": 3.7,
+      "ratingCount": 1319,
+      "type": "Supermercado",
+      "types": [
+        "Supermercado"
+      ],
+      "phoneNumber": "+55 11 2514-1267",
+      "openingHours": {
+        "quinta-feira": "07:00–21:00",
+        "sexta-feira": "07:00–21:00",
+        "sábado": "07:00–20:00",
+        "domingo": "08:00–19:00",
+        "segunda-feira": "07:00–21:00",
+        "terça-feira": "07:00–21:00",
+        "quarta-feira": "07:00–21:00"
+      },
+      "thumbnailUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLfKIZio02O49Q2w4U4_6xU9THmUiiEzDrBmY7pRa7xkcHP4H4bVf-GvY5uaP6Qq5PUts9RohnA-xteXCPcpbW3zs0w2BlueLlTkOzPibWzp_vR20WGbxjjIHUa9buOfO73LTso",
+      "cid": "11541460401670441271",
+      "fid": "0x94ce641393b2c981:0xa02b811606cdc937",
+      "placeId": "ChIJgcmykxNkzpQRN8nNBhaBK6A",
+      "distance_meters": 576
+    },
+    {
+      "position": 8,
+      "title": "Supermercados Dovale 3",
+      "address": "Av. Nordestina, 4.331 - Jardim Robru, São Paulo - SP, 08032-000, Brasil",
+      "latitude": -23.5207582,
+      "longitude": -46.4186018,
+      "rating": 4,
+      "ratingCount": 2827,
+      "type": "Supermercado",
+      "types": [
+        "Supermercado",
+        "Mercado de produtos agrícolas"
+      ],
+      "website": "http://www.smdovale.com.br/",
+      "phoneNumber": "+55 11 2511-8211",
+      "openingHours": {
+        "quinta-feira": "08:00–21:00",
+        "sexta-feira": "08:00–21:00",
+        "sábado": "08:00–21:00",
+        "domingo": "08:00–18:00",
+        "segunda-feira": "08:00–21:00",
+        "terça-feira": "08:00–21:00",
+        "quarta-feira": "08:00–21:00"
+      },
+      "thumbnailUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLdQSGSBZbfXMJUN8mamFjGAi5DdPs8ARAPNlw4BInotsZw7YLoLCHKVbhmoahFp4FZllniKQmqHWu6NE2RFhky5axaWByT0KmlTlb_kb2OsmzSnmiqWWPJ6GX7ZVm3DYvVjg7L6",
+      "cid": "10989488005205965091",
+      "fid": "0x94ce6472a1f68d03:0x9882811dadb7b923",
+      "placeId": "ChIJA432oXJkzpQRI7m3rR2Bgpg",
+      "distance_meters": 813
+    },
+    {
+      "position": 19,
+      "title": "Mercadinho Severino",
+      "address": "R. Padre Antão Jorge - Vila Progresso (Zona Leste), São Paulo - SP, 08245-100, Brasil",
+      "latitude": -23.5208932,
+      "longitude": -46.432434799999996,
+      "rating": 4,
+      "ratingCount": 54,
+      "type": "Mercado",
+      "types": [
+        "Mercado"
+      ],
+      "phoneNumber": "+55 11 2052-2483",
+      "openingHours": {
+        "quinta-feira": "07:00–20:00",
+        "sexta-feira": "07:00–20:00",
+        "sábado": "07:00–20:00",
+        "domingo": "07:00–14:00",
+        "segunda-feira": "07:00–20:00",
+        "terça-feira": "07:00–20:00",
+        "quarta-feira": "07:00–20:00"
+      },
+      "isUnclaimedListing": true,
+      "thumbnailUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLeyUYT0B2Vs-Zgj6hu5vqcu-y1TWjh0urrjLtOPRTf8pQVXpPPmEFG51fjGmsB_lokE9iInTRytRXhPVx62WvvvfvzpNEgzReGtFDJZkTssY3PFj-rQtqMt0GXFXKspPo2WjA7How",
+      "cid": "8158007671581620041",
+      "fid": "0x94ce6401bc5e4c69:0x713710c11b88b749",
+      "placeId": "ChIJaUxevAFkzpQRSbeIG8EQN3E",
+      "distance_meters": 979
+    },
+    {
+      "position": 5,
+      "title": "Mercado Martins",
+      "address": "Vila Progresso (Zona Leste), São Paulo - SP, 08240-700, Brasil",
+      "latitude": -23.523968999999997,
+      "longitude": -46.4340261,
+      "rating": 4.9,
+      "ratingCount": 7,
+      "type": "Supermercado",
+      "types": [
+        "Supermercado"
+      ],
+      "isUnclaimedListing": true,
+      "thumbnailUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLeiTsjJeRRYWO7ekpN9tmxAu9fNcWY1WGmDMTUKJdz2W8yDNask7zDBxhF5xa21rKYHDCfB4J0Lh_Y_ZORXES1AO2HggdeMTuFWpcruW7m09aTWRVyrJDTJEbXX_I82V3eJb7QwUw",
+      "cid": "5124361204368968204",
+      "fid": "0x94ce640487106f1b:0x471d635d87348a0c",
+      "placeId": "ChIJG28QhwRkzpQRDIo0h11jHUc",
+      "distance_meters": 999
+    },
+    {
+      "position": 11,
+      "title": "Mercado Dia A Dia",
+      "address": "Av. Nordestina, 6237 - Guaianases, São Paulo - SP, 08431-410, Brasil",
+      "latitude": -23.5316206,
+      "longitude": -46.4152682,
+      "rating": 3.6,
+      "ratingCount": 435,
+      "type": "Supermercado",
+      "types": [
+        "Supermercado"
+      ],
+      "phoneNumber": "+55 11 94609-3876",
+      "openingHours": {
+        "quinta-feira": "07:30–21:00",
+        "sexta-feira": "07:30–21:00",
+        "sábado": "07:30–21:00",
+        "domingo": "07:30–15:30",
+        "segunda-feira": "07:30–21:00",
+        "terça-feira": "07:30–21:00",
+        "quarta-feira": "07:30–21:00"
+      },
+      "thumbnailUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLeqzQel8fun0_ISSJO4-FeBHwxwCnEKJpAjNommqxoW1tTJiL3WWjY7QTGEHf0hqcbQl83dbPf8BaUHuQD2aM45ANhK6E75XcA37KaMaEElPoFusP9WAZFx4N6HM4Bbmw5PoAt9lr1bNMML",
+      "cid": "3170640143458035025",
+      "fid": "0x94ce65b247dbb225:0x2c0060696568e551",
+      "placeId": "ChIJJbLbR7JlzpQRUeVoZWlgACw",
+      "distance_meters": 1139
+    },
+    {
+      "position": 3,
+      "title": "Higa's Supermercados",
+      "address": "R. José Maria Alves de Deus, 1 - Jardim Robru, São Paulo - SP, 08150-290, Brasil",
+      "latitude": -23.5210352,
+      "longitude": -46.4133104,
+      "rating": 4.3,
+      "ratingCount": 4134,
+      "type": "Mercado",
+      "types": [
+        "Mercado",
+        "Padaria",
+        "Açougue",
+        "Laticínios",
+        "Loja de artigos domésticos",
+        "Supermercado",
+        "Adega"
+      ],
+      "website": "http://www.supermercadohigas.com.br/",
+      "phoneNumber": "+55 11 4810-8641",
+      "openingHours": {
+        "quinta-feira": "08:00–21:00",
+        "sexta-feira": "08:00–21:00",
+        "sábado": "08:00–21:00",
+        "domingo": "08:00–16:00",
+        "segunda-feira": "08:00–21:00",
+        "terça-feira": "08:00–21:00",
+        "quarta-feira": "08:00–21:00"
+      },
+      "thumbnailUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLcsfrXndpe7Ei6AjRl4i0rWE25TrZZBGW0svRqFV4HXblaebeuHzNdVmgDfYGyKwdRpfBaasZFHE_toWv0DSyFTr9sDKtKAPk1uYEGk6QUCtdJG_5ewXlLIdPYiDX_NwcxuBefc",
+      "cid": "13730216684598638224",
+      "fid": "0x94ce6468abedf645:0xbe8b87542ea4b690",
+      "placeId": "ChIJRfbtq2hkzpQRkLakLlSHi74",
+      "distance_meters": 1248
+    },
+    {
+      "position": 1,
+      "title": "Supermercado Bela Vista",
+      "address": "Av. Monsenhor Agnelo, 300 - Vila Progresso (Zona Leste), São Paulo - SP, 08240-670, Brasil",
+      "latitude": -23.5197303,
+      "longitude": -46.4357274,
+      "rating": 3.9,
+      "ratingCount": 280,
+      "type": "Supermercado",
+      "types": [
+        "Supermercado"
+      ],
+      "phoneNumber": "+55 11 2052-4680",
+      "openingHours": {
+        "quinta-feira": "07:30–20:00",
+        "sexta-feira": "07:30–20:00",
+        "sábado": "07:30–20:00",
+        "domingo": "08:00–14:00",
+        "segunda-feira": "07:30–20:00",
+        "terça-feira": "07:30–20:00",
+        "quarta-feira": "07:30–20:00"
+      },
+      "isUnclaimedListing": true,
+      "thumbnailUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLcGrASxeQl9ScoLUq04ZVenSYAkkeHXPC4M4Tdoybbw2FcOJNfRPbBicDGUjmQUueZFHf_A3bfZe4TG6glcJMNEk__2BQy4eN9DEpN6P5lq2zna-flJvUfITOkwi4GwwuAuwRGS",
+      "cid": "3557976303762414985",
+      "fid": "0x94ce64011ffa7975:0x31607898e9041d89",
+      "placeId": "ChIJdXn6HwFkzpQRiR0E6Zh4YDE",
+      "distance_meters": 1333
+    },
+    {
+      "position": 14,
+      "title": "Mini Mercado da Leila",
+      "address": "R. Erva Galega, 335 - Vila Progresso (Zona Leste), São Paulo - SP, 08041-250, Brasil",
+      "latitude": -23.5193814,
+      "longitude": -46.437303199999995,
+      "rating": 5,
+      "ratingCount": 2,
+      "type": "Loja de Conveniência",
+      "types": [
+        "Loja de Conveniência"
+      ],
+      "phoneNumber": "+55 11 94952-7737",
+      "openingHours": {
+        "quinta-feira": "06:00–20:00",
+        "sexta-feira": "06:00–20:00",
+        "sábado": "06:00–20:00",
+        "domingo": "06:00–20:00",
+        "segunda-feira": "06:00–20:00",
+        "terça-feira": "06:00–20:00",
+        "quarta-feira": "06:00–20:00"
+      },
+      "isUnclaimedListing": true,
+      "thumbnailUrl": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=MqgRMAl4LI7_5XuKw7jQhw&cb_client=search.gws-prod.grass&w=80&h=92&yaw=358.89056&pitch=0&thumbfov=100",
+      "cid": "16297412296371074420",
+      "fid": "0x94ce64005b8d9373:0xe22c0a22db47f574",
+      "placeId": "ChIJc5ONWwBkzpQRdPVH2yIKLOI",
+      "distance_meters": 1492
+    },
+    {
+      "position": 2,
+      "title": "Mercado Braga",
+      "address": "Estr. Itaquera Guaianazes, 647 - Parada XV de Novembro, São Paulo - SP, 08246-000, Brasil",
+      "latitude": -23.530824799999998,
+      "longitude": -46.4386983,
+      "rating": 4.6,
+      "ratingCount": 268,
+      "type": "Mercado",
+      "types": [
+        "Mercado",
+        "Supermercado"
+      ],
+      "phoneNumber": "+55 11 2205-4169",
+      "openingHours": {
+        "quinta-feira": "06:00–20:00",
+        "sexta-feira": "06:00–20:00",
+        "sábado": "06:00–20:00",
+        "domingo": "06:00–14:00",
+        "segunda-feira": "06:00–20:00",
+        "terça-feira": "06:00–20:00",
+        "quarta-feira": "06:00–20:00"
+      },
+      "isUnclaimedListing": true,
+      "thumbnailUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLeAI_fulRRKa76Xrf8xUcSRzUztmRGklfyMQNNF2ggbPHGsB52_VIGaofAUQjC06RmzvNQZ_HfOOXnGjMU2UK05hGoKSnzOtS-P-jbzi9wZajWJjLugvGdAxARRP5eIPrHvq9U7",
+      "cid": "12033035552480676416",
+      "fid": "0x94ce641d9aaba48f:0xa6fdee14cb41ca40",
+      "placeId": "ChIJj6Srmh1kzpQRQMpByxTu_aY",
+      "distance_meters": 1561
+    },
+    {
+      "position": 9,
+      "title": "Mercado Familia Torquato",
+      "address": "Av. Teodoro Bernardo do Nascimento, 600 - Jardim Robru, São Paulo - SP, 08150-000, Brasil",
+      "latitude": -23.5213556,
+      "longitude": -46.4096212,
+      "rating": 4.4,
+      "ratingCount": 208,
+      "type": "Mercado",
+      "types": [
+        "Mercado"
+      ],
+      "openingHours": {
+        "quinta-feira": "07:00–19:20",
+        "sexta-feira": "07:00–19:20",
+        "sábado": "07:00–19:20",
+        "domingo": "08:00–14:00",
+        "segunda-feira": "07:00–19:20",
+        "terça-feira": "07:00–19:20",
+        "quarta-feira": "07:00–19:20"
+      },
+      "isUnclaimedListing": true,
+      "thumbnailUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLdJM0QCE7fhKFoDgHgQtAtYhraotGNzBv7Lx9ctKgzGpW1X91QOPYgsOESaJEXqrlzEEMNCmSEJW_qryGmxQT-yyngiklFKTbtoLFOykjirkQ2MmIJkYX7MzwRHLIp76FLSZ3jjDyctLPZD",
+      "cid": "17837640232062498905",
+      "fid": "0x94ce6465eceb46cb:0xf78c07487f4d3859",
+      "placeId": "ChIJy0br7GVkzpQRWThNf0gHjPc",
+      "distance_meters": 1586
+    },
+    {
+      "position": 13,
+      "title": "Ideal Mercado",
+      "address": "Rua Romualdo de Sousa Brito, 480 - Parque Dom Joao Neri, São Paulo - SP, 08150-470, Brasil",
+      "latitude": -23.5194339,
+      "longitude": -46.409430799999996,
+      "rating": 4.6,
+      "ratingCount": 49,
+      "type": "Mercado",
+      "types": [
+        "Mercado"
+      ],
+      "phoneNumber": "+55 11 2035-6300",
+      "openingHours": {
+        "quinta-feira": "08:30–20:00",
+        "sexta-feira": "08:30–20:00",
+        "sábado": "08:30–20:00",
+        "domingo": "09:00–13:00",
+        "segunda-feira": "08:30–20:00",
+        "terça-feira": "08:30–20:00",
+        "quarta-feira": "08:30–20:00"
+      },
+      "thumbnailUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLciYvMMHjRbk8EBiXZ50RV9Chfke-4xOUnfSEXDfChNITrW_xiy-mcpPjk96g3c-dE7MJ2T0W31vP6tHNg75UpdufssdoQJJVrPmFwtfEVhncCHZUhI0z-kd2hZwrMiDfU_3iA6",
+      "cid": "3710682933191587554",
+      "fid": "0x94ce64656d9dccef:0x337efe77bafd36e2",
+      "placeId": "ChIJ78ydbWVkzpQR4jb9unf-fjM",
+      "distance_meters": 1682
+    },
+    {
+      "position": 20,
+      "title": "Mercado Primavera",
+      "address": "R. Francisco de Oliveira, 33 - Jardim Lageado, São Paulo - SP, 08441-110, Brasil",
+      "latitude": -23.5307472,
+      "longitude": -46.4036015,
+      "rating": 5,
+      "ratingCount": 1,
+      "type": "Supermercado",
+      "types": [
+        "Supermercado"
+      ],
+      "isUnclaimedListing": true,
+      "thumbnailUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLcnrebv9PgXdJ7dyJZv5Oxg9QgNqCG7dWFjSmFTiNtWWSnWxv7dnUw5d1-vwtzZRypli-tTHNOixaWD3TFykct2tlLzOhQQdZ_jiklSeFJ19g2ekgrp0GqWLdmOBbV-UZaXiZaWTA",
+      "cid": "17703627263842748373",
+      "fid": "0x94ce6546f6ef6e5d:0xf5afeb32d94487d5",
+      "placeId": "ChIJXW7v9kZlzpQR1YdE2TLrr_U",
+      "distance_meters": 2194
+    },
+    {
+      "position": 18,
+      "title": "Dia Supermercado",
+      "address": "Estrada Dom João Nery, 3341 - Jardim Bartira, São Paulo - SP, 08151-000, Brasil",
+      "latitude": -23.521388899999998,
+      "longitude": -46.3994444,
+      "rating": 3.5,
+      "ratingCount": 1074,
+      "type": "Supermercado",
+      "types": [
+        "Supermercado",
+        "Padaria",
+        "Açougue",
+        "Mercado de frutas e vegetais",
+        "Atacadista"
+      ],
+      "website": "https://www.dia.com.br/",
+      "phoneNumber": "+55 800 723 1470",
+      "openingHours": {
+        "quinta-feira": "07:00–21:00",
+        "sexta-feira": "07:00–21:00",
+        "sábado": "07:00–21:00",
+        "domingo": "07:00–20:00",
+        "segunda-feira": "07:00–21:00",
+        "terça-feira": "07:00–21:00",
+        "quarta-feira": "07:00–21:00"
+      },
+      "thumbnailUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLdF8r80pSAVhOdci2rD81Wb-K8CsyK37tIKnxWtXs7WLYrN9vCtAdj5k78P8QXbUm3bE1B1sMolLCtbaKkEmLQHoVmMRmgmVQWnVRY9PGzs1dtXRbCOtmG0porzijsNrjN-weEvCa-Jlk26",
+      "cid": "11012984323435899291",
+      "fid": "0x94ce654fe375a3f7:0x98d5fae49357a99b",
+      "placeId": "ChIJ96N1409lzpQRm6lXk-T61Zg",
+      "distance_meters": 2592
+    },
+    {
+      "position": 4,
+      "title": "Supermercados DaGente",
+      "address": "R. Geronimo Barbosa da Silva, 176 - Parque Dom Joao Neri, São Paulo - SP, 08150-590, Brasil",
+      "latitude": -23.5202307,
+      "longitude": -46.3984689,
+      "rating": 3.6,
+      "ratingCount": 348,
+      "type": "Supermercado",
+      "types": [
+        "Supermercado"
+      ],
+      "openingHours": {
+        "quinta-feira": "07:30–21:00",
+        "sexta-feira": "07:30–21:00",
+        "sábado": "07:30–19:00",
+        "domingo": "07:30–19:00",
+        "segunda-feira": "07:30–21:00",
+        "terça-feira": "07:30–21:00",
+        "quarta-feira": "07:30–21:00"
+      },
+      "isUnclaimedListing": true,
+      "thumbnailUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLdtDOPuDj_DxaboJz05Wojf7rOcYPuhZIHhkk-U4gpgqSMCOaW5MTZnZpIshIIeMR62jXIj-eK9f41zrykcdaX2E23SR6Dpb_eRAiXOhAX9QIrszMbKxvZlgMUYS9T12UyRG4tXpg",
+      "cid": "9448799118109568847",
+      "fid": "0x94ce65dee91e3aef:0x8320e0bc6cf1ef4f",
+      "placeId": "ChIJ7zoe6d5lzpQRT-_xbLzgIIM",
+      "distance_meters": 2716
+    }
+  ],
+  "Padarias e Confeitarias": [
+    {
+      "position": 5,
+      "title": "Padaria do Jair I",
+      "address": "R. Baltazar Barroso, 23 - Jardim Etelvina, São Paulo - SP, 08430-660, Brasil",
+      "latitude": -23.5305333,
+      "longitude": -46.4241953,
+      "rating": 4.9,
+      "ratingCount": 38,
+      "type": "Padaria",
+      "types": [
+        "Padaria",
+        "Restaurante de café da manhã",
+        "Microcervejaria",
+        "Loja de bolos",
+        "Doceria",
+        "Mercado"
+      ],
+      "phoneNumber": "+55 11 98863-3788",
+      "openingHours": {
+        "quinta-feira": "06:00–20:00",
+        "sexta-feira": "06:00–20:00",
+        "sábado": "06:00–20:00",
+        "domingo": "06:00–13:00",
+        "segunda-feira": "06:00–20:00",
+        "terça-feira": "06:00–20:00",
+        "quarta-feira": "06:00–20:00"
+      },
+      "thumbnailUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLcGgme8GUlvNllyR4c7bmwiuatXoiPjp8uVdQSnRFZDupehcNFMjGkuTQ2BaMCbeZ2nDuOMXNuoCvnlTmmDVIM8RQLhz8qtk8mRphboxUd0RyIhV1674kgIBS-goNCFSX37LMRF",
+      "cid": "6255047707163577265",
+      "fid": "0x94ce654d8004a47d:0x56ce64bfbe9b4bb1",
+      "placeId": "ChIJfaQEgE1lzpQRsUubvr9kzlY",
+      "distance_meters": 532
+    },
+    {
+      "position": 17,
+      "title": "Panificadora Nova Jardim Centenário|",
+      "address": "Av. Nordestina, 5414 - Vila Nova Curuca, São Paulo - SP, 08431-010, Brasil",
+      "latitude": -23.5250874,
+      "longitude": -46.4185003,
+      "rating": 4.3,
+      "ratingCount": 564,
+      "type": "Padaria",
+      "types": [
+        "Padaria"
+      ],
+      "phoneNumber": "+55 11 2513-5924",
+      "openingHours": {
+        "quinta-feira": "06:00–22:00",
+        "sexta-feira": "06:00–22:00",
+        "sábado": "06:00–22:00",
+        "domingo": "06:00–22:00",
+        "segunda-feira": "06:00–22:00",
+        "terça-feira": "06:00–22:00",
+        "quarta-feira": "06:00–22:00"
+      },
+      "thumbnailUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLcgZtzezNTuyIemizpifR9wKLvhwOcHwpbJh1DE5Hq4hEDJnjPJHqLWjvNph-5sLH_K_q6jAOR4uGLBT1rlscfi8CSW-TvZYYryebU-5ojlXiLUB19h9pD6wdeUUNLywp0PTPg8",
+      "cid": "4289797287470563168",
+      "fid": "0x94ce646c9b318f9d:0x3b886be7961dff60",
+      "placeId": "ChIJnY8xm2xkzpQRYP8dludriDs",
+      "distance_meters": 608
+    },
+    {
+      "position": 9,
+      "title": "Padaria do Jair II",
+      "address": "R. Agostinho Mendez, 19 - Jardim Moreno, São Paulo - SP, 08430-680, Brasil",
+      "latitude": -23.5311618,
+      "longitude": -46.4260234,
+      "rating": 5,
+      "ratingCount": 22,
+      "type": "Padaria",
+      "types": [
+        "Padaria",
+        "Mercado",
+        "Bares"
+      ],
+      "phoneNumber": "+55 11 93619-9392",
+      "openingHours": {
+        "quinta-feira": "07:00–20:00",
+        "sexta-feira": "07:00–20:00",
+        "sábado": "07:00–20:00",
+        "domingo": "07:00–13:00",
+        "segunda-feira": "07:00–20:00",
+        "terça-feira": "07:00–20:00",
+        "quarta-feira": "07:00–20:00"
+      },
+      "thumbnailUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLcyNvucF77klwarQ_JEMflum92wBm46TGgABpcFnG8t7bwj3wuwXJi7EDpJ4sBjmJ1EaK0hM8KQtnHEPZcp3DVg39NkuKK7FkX61Nv_Rmra5MlgEmMPOJi4xlf9X0KbpVnyxLjwwqu8CF2Q",
+      "cid": "10636744740227583771",
+      "fid": "0x94ce65c8d3db8d97:0x939d4efc3fc50f1b",
+      "placeId": "ChIJl43b08hlzpQRGw_FP_xOnZM",
+      "distance_meters": 623
+    },
+    {
+      "position": 1,
+      "title": "Padaria Estrela do Lageado",
+      "address": "Av. Nordestina, 5279 - Parque Guaianazes, São Paulo - SP, 08431-410, Brasil",
+      "latitude": -23.523827,
+      "longitude": -46.4180579,
+      "rating": 4.6,
+      "ratingCount": 11431,
+      "type": "Padaria",
+      "types": [
+        "Padaria",
+        "Restaurante de café da manhã",
+        "Pizzaria"
+      ],
+      "website": "https://linktr.ee/EstreladoLageado_",
+      "description": "Em ambiente climatizado e familiar, a casa oferece pães, doces, bolos e cafés, além de sanduíches e almoço.",
+      "openingHours": {
+        "quinta-feira": "06:00–22:00",
+        "sexta-feira": "06:00–22:00",
+        "sábado": "06:00–22:00",
+        "domingo": "06:30–14:00",
+        "segunda-feira": "06:00–22:00",
+        "terça-feira": "06:00–22:00",
+        "quarta-feira": "06:00–22:00"
+      },
+      "thumbnailUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLfdmA64LGEh6MDmvv5VSe-ba_GDwkY8ISVTgtFMBSvkcKUtCUA83h09xZcI78Ur09SICE6dA3AUwPxz-sE4nAeGWT4l_LSM_fZ0v2Sl6Uy6TV0Kz0cSwEcfJOqkURibwxsgcj9_",
+      "cid": "2516594190558602854",
+      "fid": "0x94ce646cf0145ca9:0x22ecbd15340ea666",
+      "placeId": "ChIJqVwU8GxkzpQRZqYONBW97CI",
+      "distance_meters": 683
+    },
+    {
+      "position": 4,
+      "title": "Mini Padaria Paraibas",
+      "address": "R. Rafi Miguel Ackel, 17 - Parque Guaianazes, São Paulo - SP, 08431-600, Brasil",
+      "latitude": -23.530021299999998,
+      "longitude": -46.4143872,
+      "rating": 4.3,
+      "ratingCount": 186,
+      "type": "Padaria",
+      "types": [
+        "Padaria"
+      ],
+      "phoneNumber": "+55 11 2035-4847",
+      "openingHours": {
+        "quinta-feira": "06:00–22:00",
+        "sexta-feira": "06:00–22:00",
+        "sábado": "06:00–22:00",
+        "domingo": "06:00–22:00",
+        "segunda-feira": "06:00–22:00",
+        "terça-feira": "06:00–22:00",
+        "quarta-feira": "06:00–22:00"
+      },
+      "isUnclaimedListing": true,
+      "thumbnailUrl": "https://lh3.googleusercontent.com/grass-proxy/AIM7gW0NZ5_aJNHWZcojwbtkazf2eAZYAGE8K8wOPzVcW37UaJ_W5Lv8PEC7_8PoLrBrEAs7ShpjUt0tMLEJDyoH1O-idXLC9PclqkVNT6-AcVXOR0aYYOWMaIgeWsfTQWOmwU-mVgszsdgXKhWkNTHiU3egoV-imxPP_7AqgWqkM_xATQe76lZ8W-0-P9ZIAN3onE6EiafdcQ",
+      "cid": "16342368020275122393",
+      "fid": "0x94ce64423dda45a7:0xe2cbc120fd33d0d9",
+      "placeId": "ChIJp0XaPUJkzpQR2dAz_SDBy-I",
+      "distance_meters": 1128
+    },
+    {
+      "position": 18,
+      "title": "Padaria Nova Progresso",
+      "address": "R. Suzana de Melo, 983 - Vila Progresso (Zona Leste), São Paulo - SP, 08245-160, Brasil",
+      "latitude": -23.5199476,
+      "longitude": -46.434481899999994,
+      "rating": 4.4,
+      "ratingCount": 119,
+      "type": "Padaria",
+      "types": [
+        "Padaria"
+      ],
+      "phoneNumber": "+55 11 95131-1290",
+      "openingHours": {
+        "quinta-feira": "06:30–22:00",
+        "sexta-feira": "06:30–22:00",
+        "sábado": "06:30–22:00",
+        "domingo": "06:30–22:00",
+        "segunda-feira": "06:30–22:00",
+        "terça-feira": "06:30–22:00",
+        "quarta-feira": "06:30–22:00"
+      },
+      "thumbnailUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLdJkvPTbxu77wiGf3WiplZsyNyWNIjRP0MZVdAqvp39DbpnZEq1fDxHVGf7oLH510CwzgtakkEKy6WflxwaDjAf8bYsePSIi-YZ6IxK8fjxbpuu1E3FP4-Y97YQ0mWAOwpUSYw",
+      "cid": "14417648738437024758",
+      "fid": "0x94ce651ab6cc0ffb:0xc815c723bee5cbf6",
+      "placeId": "ChIJ-w_MthplzpQR9svlviPHFcg",
+      "distance_meters": 1212
+    },
+    {
+      "position": 7,
+      "title": "Art Pane Pães Artesanais",
+      "address": "Rua: Padre Antão Jorge, 714 - Vila Progresso (Zona Leste), São Paulo - SP, 08245-100, Brasil",
+      "latitude": -23.521205,
+      "longitude": -46.4357768,
+      "rating": 4.8,
+      "ratingCount": 246,
+      "type": "Padaria",
+      "types": [
+        "Padaria"
+      ],
+      "phoneNumber": "+55 11 99342-9677",
+      "openingHours": {
+        "quinta-feira": "06:00–21:00",
+        "sexta-feira": "06:00–21:00",
+        "sábado": "06:00–21:00",
+        "domingo": "06:00–13:30",
+        "segunda-feira": "06:00–21:00",
+        "terça-feira": "06:00–21:00",
+        "quarta-feira": "06:00–21:00"
+      },
+      "bookingLinks": [
+        "https://www.google.com/searchviewer/42?cvd=CLw_EicKJeICIjIgEhkiF9LX29IPEQoNL2cvMTFoMjFwdG4wZBgBOgMI8A0%3D&hl=pt-BR&gl=us&fo_m=MfohQo559jFvMUOzJVpjPL1YMfZ3bInYwBDuMfaXTPp5KXh-&utm_source=tactile&gei=xknaapr_MdXMkPIPipbu8A0&ei=xknaapr_MdXMkPIPipbu8A0&fo_s=OA,SOE&opi=79508299&orderType=1&ebb=1&cs=0&foub=mcpp"
+      ],
+      "thumbnailUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLdRgDkcdpczxVUKZQnHUrb-RkU_4VtLHnrugCkjge4zc862d-jlWZfQuPoCSKXLDbBKcnf0vMbZaz6C0DcOC_6Z38Nm9V70XtAfEDYq4Hg6uLmIeYsj-S61zF5YFmCQ0Dfp-NEP",
+      "cid": "11875818876522705786",
+      "fid": "0x94ce65e099dc8a73:0xa4cf6258f003b37a",
+      "placeId": "ChIJc4rcmeBlzpQRerMD8Fhiz6Q",
+      "distance_meters": 1263
+    },
+    {
+      "position": 2,
+      "title": "Panificadora Jardim Nova Robru",
+      "address": "R. José Maria Alves de Deus, 200 - Jardim Robru, São Paulo - SP, 08150-290, Brasil",
+      "latitude": -23.521950399999998,
+      "longitude": -46.4123582,
+      "rating": 4.3,
+      "ratingCount": 1844,
+      "type": "Padaria",
+      "types": [
+        "Padaria",
+        "Restaurante de café da manhã",
+        "Restaurante"
+      ],
+      "phoneNumber": "+55 11 2513-8233",
+      "openingHours": {
+        "quinta-feira": "06:00–00:00",
+        "sexta-feira": "06:00–01:00",
+        "sábado": "06:00–01:00",
+        "domingo": "06:00–00:00",
+        "segunda-feira": "06:00–00:00",
+        "terça-feira": "06:00–00:00",
+        "quarta-feira": "06:00–00:00"
+      },
+      "bookingLinks": [
+        "https://www.google.com/searchviewer/42?cvd=CLw_EiUKI-ICIDIeEhciFdLX29IPDwoLL2cvMXRmYnBnY2sYADoDCPAN&hl=pt-BR&gl=us&fo_m=MfohQo559jFvMUOzJVpjPL1YMfZ3bInYwBDuMfaXTPp5KXh-&utm_source=tactile&gei=xknaapr_MdXMkPIPipbu8A0&ei=xknaapr_MdXMkPIPipbu8A0&fo_s=OA,SOE&opi=79508299&ebb=1&cs=0&foub=mcpp"
+      ],
+      "isUnclaimedListing": true,
+      "thumbnailUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLfQqB4D80F9S2haWWIbu7ZlBotSJZyEw0OvTh7LozN1YKvJ7X-8i4uJ8SnqI59F6AhowbLPMRjZi3xLlE-T965Em0APFxAyzittyqiL9jqjPCkrLa6KI8ezc3vVmC5H2snx9oLuoUmNhks",
+      "cid": "6352804817927140082",
+      "fid": "0x94ce646952ec919d:0x5829b252c3eff2f2",
+      "placeId": "ChIJnZHsUmlkzpQR8vLvw1KyKVg",
+      "distance_meters": 1301
+    },
+    {
+      "position": 10,
+      "title": "Padaria marcell",
+      "address": "R. Laurentino Xavier dos Santos, 701 - Antigo 527 - Vila Progresso (Zona Leste), São Paulo - SP, 08240-740, Brasil",
+      "latitude": -23.5212877,
+      "longitude": -46.436682399999995,
+      "rating": 4.7,
+      "ratingCount": 664,
+      "type": "Padaria",
+      "types": [
+        "Padaria",
+        "Doceria"
+      ],
+      "phoneNumber": "+55 11 2051-5977",
+      "openingHours": {
+        "quinta-feira": "06:30–21:00",
+        "sexta-feira": "06:30–21:00",
+        "sábado": "06:30–21:00",
+        "domingo": "07:00–13:00",
+        "segunda-feira": "06:30–21:00",
+        "terça-feira": "06:30–21:00",
+        "quarta-feira": "06:30–21:00"
+      },
+      "thumbnailUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLcRtt8GdcrMUQ6BpIqUqyNuCA1qdIIke3UA0rH3qbIYlboqwNfsvJgQFgajnfZSKySsjC-nOJYggeGgMCdsI9P-HWCFLaZgRgRWibTLTYFg0ikhe6oWjiDll-2Kkp2MDvmcaXi4Rw",
+      "cid": "7628704902954411346",
+      "fid": "0x94ce64005de7b061:0x69de9ab0cce0e552",
+      "placeId": "ChIJYbDnXQBkzpQRUuXgzLCa3mk",
+      "distance_meters": 1345
+    },
+    {
+      "position": 14,
+      "title": "Padaria Doce Sabor",
+      "address": "Rua Milton Santos, n°2 - Parque Guaianazes, São Paulo - SP, 08431-670, Brasil",
+      "latitude": -23.5288203,
+      "longitude": -46.4105914,
+      "rating": 4.7,
+      "ratingCount": 20,
+      "type": "Padaria",
+      "types": [
+        "Padaria"
+      ],
+      "phoneNumber": "+55 11 96423-9399",
+      "openingHours": {
+        "quinta-feira": "06:30–19:00",
+        "sexta-feira": "06:30–19:00",
+        "sábado": "06:30–19:00",
+        "domingo": "07:00–14:00",
+        "segunda-feira": "06:30–19:00",
+        "terça-feira": "06:30–19:00",
+        "quarta-feira": "06:30–19:00"
+      },
+      "isUnclaimedListing": true,
+      "thumbnailUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLdYTCZwF7djLVZiHsZXUskPv0zfdHjWHzTBMyo7CZ5nZrce7JvgtR4A73je69DAIKnI-7_SqBccBEOmCNU1B7jhLA_LGSwI-sDheEAMH_VvWpvUmqvOAoeEz2qyjOd16pJrm-OO",
+      "cid": "2861230045808753354",
+      "fid": "0x94ce650f786af6d9:0x27b52191351afaca",
+      "placeId": "ChIJ2fZqeA9lzpQRyvoaNZEhtSc",
+      "distance_meters": 1451
+    },
+    {
+      "position": 3,
+      "title": "Padaria Vitória",
+      "address": "Rua Sāo José de Mossamedes, 215 - Núcleo Lageado, São Paulo - SP, 08440-540, Brasil",
+      "latitude": -23.5319188,
+      "longitude": -46.409590099999996,
+      "rating": 4.4,
+      "ratingCount": 126,
+      "type": "Padaria",
+      "types": [
+        "Padaria"
+      ],
+      "openingHours": {
+        "quinta-feira": "06:30–21:00",
+        "sexta-feira": "06:30–21:00",
+        "sábado": "06:30–21:00",
+        "domingo": "06:30–21:00",
+        "segunda-feira": "06:30–21:00",
+        "terça-feira": "06:30–21:00",
+        "quarta-feira": "06:30–21:00"
+      },
+      "isUnclaimedListing": true,
+      "thumbnailUrl": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=RyKGDiASvg3gUvc3bu-4Vw&cb_client=search.gws-prod.grass&w=80&h=92&yaw=284.53973&pitch=0&thumbfov=100",
+      "cid": "7583737576451595138",
+      "fid": "0x94ce645ca734b817:0x693ed9253a2ddb82",
+      "placeId": "ChIJF7g0p1xkzpQRgtstOiXZPmk",
+      "distance_meters": 1660
+    },
+    {
+      "position": 19,
+      "title": "Casa dos pães Volivia",
+      "address": "Rua Dr. José Gravonski, 153 - Jardim Robru, São Paulo - SP, 08441-000, Brasil",
+      "latitude": -23.527740899999998,
+      "longitude": -46.407948999999995,
+      "rating": 4.2,
+      "ratingCount": 183,
+      "type": "Padaria",
+      "types": [
+        "Padaria"
+      ],
+      "phoneNumber": "+55 11 2511-1133",
+      "openingHours": {
+        "quinta-feira": "Atendimento 24 horas",
+        "sexta-feira": "Atendimento 24 horas",
+        "sábado": "Atendimento 24 horas",
+        "domingo": "Atendimento 24 horas",
+        "segunda-feira": "Atendimento 24 horas",
+        "terça-feira": "Atendimento 24 horas",
+        "quarta-feira": "Atendimento 24 horas"
+      },
+      "isUnclaimedListing": true,
+      "thumbnailUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLfL4nNfZG7Yz27AOCFKhoHQLVOoCo8frfjr-ibga86GA01H_wsmbSZ3DGjOOnsXDMOBAvxqUo6LXExc99AKT95Io2hNsWJrdL5V7EvAdluNZc9Z3MXq-eoWz14mou55n7nAAucZu_nXWl4A",
+      "cid": "709149843390961201",
+      "fid": "0x94ce64679dec4599:0x9d768067bd79631",
+      "placeId": "ChIJmUXsnWdkzpQRMZbXewZo1wk",
+      "distance_meters": 1694
+    },
+    {
+      "position": 16,
+      "title": "Padaria Bella Aguiar",
+      "address": "R. Plácido Parreira Lima, 44 - Parque Dom Joao Neri, São Paulo - SP, 08151-110, Brasil",
+      "latitude": -23.5207327,
+      "longitude": -46.405097399999995,
+      "rating": 4.7,
+      "ratingCount": 22,
+      "type": "Padaria",
+      "types": [
+        "Padaria"
+      ],
+      "openingHours": {
+        "quinta-feira": "06:00–21:00",
+        "sexta-feira": "06:00–21:00",
+        "sábado": "06:00–21:00",
+        "domingo": "06:00–19:00",
+        "segunda-feira": "06:00–21:00",
+        "terça-feira": "06:00–21:00",
+        "quarta-feira": "06:00–21:00"
+      },
+      "thumbnailUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLfkSJUohgd7mvFrloQ1S7Q5VtBWmtlGp-XCwFHsV6ByRJI9SbqgBMlacJy8d4Wm9uh8HOfowvjwhRTyIE-EZOyvPFuyWz7ulw6V7UUkisI3UGrX4FnvHQESBLeV060Xo4T91gQ",
+      "cid": "12122704398846849201",
+      "fid": "0x94ce65a3379b3709:0xa83c7f6c0254f0b1",
+      "placeId": "ChIJCTebN6NlzpQRsfBUAmx_PKg",
+      "distance_meters": 2048
+    },
+    {
+      "position": 20,
+      "title": "Padaria R.A Vila Conceicao Nº 71",
+      "address": "R. José Soares de Macedo, 71A - Vila Conceicao, São Paulo - SP, 08151-010, Brasil",
+      "latitude": -23.527728099999997,
+      "longitude": -46.4028105,
+      "rating": 4.1,
+      "ratingCount": 63,
+      "type": "Padaria",
+      "types": [
+        "Padaria"
+      ],
+      "openingHours": {
+        "quinta-feira": "06:00–20:00",
+        "sexta-feira": "06:00–20:00",
+        "sábado": "06:00–20:00",
+        "domingo": "06:00–20:00",
+        "segunda-feira": "06:00–20:00",
+        "terça-feira": "06:00–20:00",
+        "quarta-feira": "06:00–20:00"
+      },
+      "isUnclaimedListing": true,
+      "thumbnailUrl": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=jdzWKYWUshWy2TF-Q1FNFA&cb_client=search.gws-prod.grass&w=80&h=92&yaw=176.37369&pitch=13.594252&thumbfov=100",
+      "cid": "11694665588295046301",
+      "fid": "0x94ce645f050333a5:0xa24bcc643d4f949d",
+      "placeId": "ChIJpTMDBV9kzpQRnZRPPWTMS6I",
+      "distance_meters": 2214
+    },
+    {
+      "position": 8,
+      "title": "pães e doces Canaã Padaria do Renato",
+      "address": "R. Freguesia da Cachoeira - Guaianases, São Paulo - SP, 08441-100, Brasil",
+      "latitude": -23.5310058,
+      "longitude": -46.4011704,
+      "rating": 5,
+      "ratingCount": 22,
+      "type": "Padaria",
+      "types": [
+        "Padaria"
+      ],
+      "phoneNumber": "+55 11 94855-4892",
+      "openingHours": {
+        "quinta-feira": "06:00–19:00",
+        "sexta-feira": "06:00–19:00",
+        "sábado": "07:00–19:00",
+        "domingo": "07:00–13:00",
+        "segunda-feira": "06:00–19:00",
+        "terça-feira": "06:00–19:00",
+        "quarta-feira": "06:00–19:00"
+      },
+      "thumbnailUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLdSBamVjLbVdRXjXkm73nyyYVzyT6yLdKy6PwiOf1C-xlv5gV6iu-lPveoYjNxFATklPAvOjOHNbiduPmZdnMqdHfgKJZ7bVnHDKVjeqrB93rdKAeIaSZyVojnwYr6tVCUJ6yIx9A",
+      "cid": "6311867869420118544",
+      "fid": "0x94ce65d498c4c441:0x57984262b1fce210",
+      "placeId": "ChIJQcTEmNRlzpQREOL8sWJCmFc",
+      "distance_meters": 2442
+    },
+    {
+      "position": 11,
+      "title": "Padaria Flor do Nazaré",
+      "address": "Estrada Dom João Nery, 3241 - Jardim Nazareth, São Paulo - SP, 08151-000, Brasil",
+      "latitude": -23.5205542,
+      "longitude": -46.3995907,
+      "rating": 4.2,
+      "ratingCount": 1748,
+      "type": "Padaria",
+      "types": [
+        "Padaria",
+        "Confeitaria",
+        "Lanchonete"
+      ],
+      "phoneNumber": "+55 11 3539-3416",
+      "openingHours": {
+        "quinta-feira": "06:00–22:00",
+        "sexta-feira": "06:00–22:00",
+        "sábado": "06:00–22:00",
+        "domingo": "06:00–22:00",
+        "segunda-feira": "06:00–22:00",
+        "terça-feira": "06:00–22:00",
+        "quarta-feira": "06:00–22:00"
+      },
+      "thumbnailUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLeX54X8hWXn6pFEqXFkLnWluSmzPS5AFo7lsAxKTqoXKB9aU4Bc3eECtsHSkhxJMf7XTiOn0pEgpypbZ-Iambu-VIhVH3u5O-_ShD5Mo4HSymKrMwBH4YCJ1YlALRWS08zq4wuA",
+      "cid": "9653935476172342188",
+      "fid": "0x94ce648a424075f7:0x85f9ab2ab5cb43ac",
+      "placeId": "ChIJ93VAQopkzpQRrEPLtSqr-YU",
+      "distance_meters": 2597
+    },
+    {
+      "position": 12,
+      "title": "Padaria Central Zurdes",
+      "address": "Rua Francisco de Soutomaior, 119 - Jardim Lourdes, São Paulo - SP, 08452-430, Brasil",
+      "latitude": -23.5276906,
+      "longitude": -46.3921736,
+      "rating": 4.7,
+      "ratingCount": 23,
+      "type": "Padaria",
+      "types": [
+        "Padaria"
+      ],
+      "openingHours": {
+        "quinta-feira": "06:00–20:00",
+        "sexta-feira": "06:00–20:00",
+        "sábado": "06:00–20:00",
+        "domingo": "06:00–12:00",
+        "segunda-feira": "06:00–20:00",
+        "terça-feira": "06:00–20:00",
+        "quarta-feira": "06:00–20:00"
+      },
+      "isUnclaimedListing": true,
+      "thumbnailUrl": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=jig8tPYKMIRRNHDG6hsxqw&cb_client=search.gws-prod.grass&w=80&h=92&yaw=191.64075&pitch=0&thumbfov=100",
+      "cid": "3269562275627296862",
+      "fid": "0x94ce64f1c60042f5:0x2d5fd19119c8685e",
+      "placeId": "ChIJ9UIAxvFkzpQRXmjIGZHRXy0",
+      "distance_meters": 3295
+    },
+    {
+      "position": 6,
+      "title": "Empório Do Pão Mini Padaria Mendonça",
+      "address": "Rua Francisco de Soutomaior, 381 - Jardim Lourdes, São Paulo - SP, 08452-430, Brasil",
+      "latitude": -23.5260206,
+      "longitude": -46.390451399999996,
+      "rating": 4.3,
+      "ratingCount": 32,
+      "type": "Padaria",
+      "types": [
+        "Padaria",
+        "Café"
+      ],
+      "phoneNumber": "+55 11 98685-0115",
+      "openingHours": {
+        "quinta-feira": "07:00–19:30",
+        "sexta-feira": "07:00–19:30",
+        "sábado": "07:00–19:30",
+        "domingo": "07:00–19:30",
+        "segunda-feira": "07:00–19:30",
+        "terça-feira": "07:00–19:30",
+        "quarta-feira": "07:00–19:30"
+      },
+      "isUnclaimedListing": true,
+      "thumbnailUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLfURVeDa8ZPLW_1ucbTTGdUT1VGQk4Up3nnJCiV-SqRtsKQqUOLQQrm82iC8oh8KV7RotmDkPd1Xxoe_hgin7y2qUgJ8wLcGe8LbbPr3WL5FtfnZMVt_1RinlgpyIJQOiIUsnqYFA",
+      "cid": "403328158554350248",
+      "fid": "0x94ce64ee1104dee5:0x598e8d2c28b62a8",
+      "placeId": "ChIJ5d4EEe5kzpQRqGKLwtLomAU",
+      "distance_meters": 3464
+    },
+    {
+      "position": 13,
+      "title": "Padaria Do Maranhão",
+      "address": "R. Jerônimo Pedroso Barros, 88 - Jardim Lourdes, São Paulo - SP, 08452-420, Brasil",
+      "latitude": -23.5245437,
+      "longitude": -46.3902061,
+      "rating": 5,
+      "ratingCount": 4,
+      "type": "Padaria",
+      "types": [
+        "Padaria"
+      ],
+      "phoneNumber": "+55 11 96030-8460",
+      "openingHours": {
+        "quinta-feira": "06:00–21:00",
+        "sexta-feira": "06:00–21:00",
+        "sábado": "06:00–09:00",
+        "domingo": "06:00–14:00",
+        "segunda-feira": "06:00–21:00",
+        "terça-feira": "06:00–21:00",
+        "quarta-feira": "06:00–21:00"
+      },
+      "thumbnailUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLcl1J9-ABgrR_FTb7WJxuweyoooHHRlG4sszTbvTQwQKOx49imlhP8oDa34ei8y2ukJaKK3RYtJgVD6o_EVaIYTmtM6wa7-GBQqgh9OFiwd-g0to-RgeFekE33CHDDKoQGUSzWVrJaoQkbr",
+      "cid": "8331792013622216253",
+      "fid": "0x94ce657c9f4062b9:0x73a078b15263863d",
+      "placeId": "ChIJuWJAn3xlzpQRPYZjUrF4oHM",
+      "distance_meters": 3491
+    },
+    {
+      "position": 15,
+      "title": "Padaria Luana",
+      "address": "Rua Francisco de Soutomaior, 515 - Jardim Lourdes, São Paulo - SP, 08452-430, Brasil",
+      "latitude": -23.5251283,
+      "longitude": -46.3895978,
+      "rating": 4,
+      "ratingCount": 270,
+      "type": "Padaria",
+      "types": [
+        "Padaria"
+      ],
+      "phoneNumber": "+55 11 2569-5755",
+      "openingHours": {
+        "quinta-feira": "06:00–22:00",
+        "sexta-feira": "06:00–22:00",
+        "sábado": "06:00–22:00",
+        "domingo": "06:00–22:00",
+        "segunda-feira": "06:00–22:00",
+        "terça-feira": "06:00–22:00",
+        "quarta-feira": "06:00–22:00"
+      },
+      "isUnclaimedListing": true,
+      "thumbnailUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLeor3DNjQmv6l0QM6SrotbkxOQ2it2LaAJ5l_cml0CpxiUiG1-vPi0MRXU10NUxHaJ87RdqlLCbI-7aKEgxlw7x4M_ZwZ2Z0bvZ9TP96njBlB_w4nKnj145eeSOeSZI2NOlSJKc",
+      "cid": "10955123872212480747",
+      "fid": "0x94ce64ee77bf4ce7:0x98086b1e79a072eb",
+      "placeId": "ChIJ50y_d-5kzpQR63KgeR5rCJg",
+      "distance_meters": 3551
+    }
+  ],
+  "Farmácias e Drogarias": [
+    {
+      "position": 19,
+      "title": "Drogaria Etelvina | Delivery | Farmácia em Jardim Etelvina",
+      "address": "R. Maxímiano Brandão, 145 - Casa 2 - Jardim Etelvina, São Paulo - SP, 08430-590, Brasil",
+      "latitude": -23.5298968,
+      "longitude": -46.4224779,
+      "rating": 4.7,
+      "ratingCount": 7,
+      "type": "Farmácia",
+      "types": [
+        "Farmácia",
+        "Drogaria"
+      ],
+      "website": "https://farmaentrega.com.br/drogetelvina",
+      "phoneNumber": "+55 11 2035-9758",
+      "openingHours": {
+        "quinta-feira": "08:30–21:00",
+        "sexta-feira": "08:30–21:00",
+        "sábado": "09:00–21:00",
+        "domingo": "09:00–14:30",
+        "segunda-feira": "08:30–21:00",
+        "terça-feira": "08:30–21:00",
+        "quarta-feira": "08:30–21:00"
+      },
+      "thumbnailUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLcaeBQ3eqHuUy6s6tW9mLVXvRTqohtUocryJcYOHtoiWS6j2EntDWxvkXYEGImS1Uc9VWgGMyBPQ0ODUG-mkUbfzSBWMlC2l8FqiP-AZAhsG_NhXZ5m_uSoHP_xTjLtmXsWLzCt",
+      "cid": "5405900781287790096",
+      "fid": "0x94ce641507e24669:0x4b059e1e6faa5610",
+      "placeId": "ChIJaUbiBxVkzpQREFaqbx6eBUs",
+      "distance_meters": 502
+    },
+    {
+      "position": 7,
+      "title": "Real Farma",
+      "address": "R. José Vieira Guimarães, 24 - Jardim Santa Teresinha, São Paulo - SP, 08430-000, Brasil",
+      "latitude": -23.5239598,
+      "longitude": -46.430067099999995,
+      "rating": 4.5,
+      "ratingCount": 25,
+      "type": "Farmácia",
+      "types": [
+        "Farmácia",
+        "Drogaria"
+      ],
+      "phoneNumber": "+55 11 95960-5287",
+      "openingHours": {
+        "quinta-feira": "08:00–22:00",
+        "sexta-feira": "08:00–21:00",
+        "sábado": "08:00–21:00",
+        "domingo": "Fechado",
+        "segunda-feira": "08:00–21:00",
+        "terça-feira": "08:00–21:00",
+        "quarta-feira": "08:00–21:00"
+      },
+      "thumbnailUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLcax1VaLn5YZBthp05uHm5BvTpSW1inVduXNsadz5tnOJpxamtnjZ0QS3pFUEO0NgjeqqiPJ8u0JPBHGCoSu_ZPNDigwDy7k1cwOy2BzOK_BaAGJ3wAC7bYnugT_iK9yjN1-xTSv89ozvxr",
+      "cid": "8135301954918461204",
+      "fid": "0x94ce64055c0ab59d:0x70e666067b74af14",
+      "placeId": "ChIJnbUKXAVkzpQRFK90ewZm5nA",
+      "distance_meters": 609
+    },
+    {
+      "position": 9,
+      "title": "Drogaleste",
+      "address": "R. Santa Etelvina, 02 - Parada XV de Novembro, São Paulo - SP, 08430-020, Brasil",
+      "latitude": -23.524369,
+      "longitude": -46.4303416,
+      "rating": 4.7,
+      "ratingCount": 289,
+      "type": "Farmácia",
+      "types": [
+        "Farmácia",
+        "Drogaria"
+      ],
+      "website": "https://www.drogaleste.com.br/lojas/sp-sao-paulo-parada-xv-69/contato/",
+      "phoneNumber": "+55 11 91309-4500",
+      "openingHours": {
+        "quinta-feira": "07:00–23:00",
+        "sexta-feira": "07:00–23:00",
+        "sábado": "07:00–23:00",
+        "domingo": "07:00–23:00",
+        "segunda-feira": "07:00–23:00",
+        "terça-feira": "07:00–23:00",
+        "quarta-feira": "07:00–23:00"
+      },
+      "thumbnailUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLdMNnN25gFhCN1PSOrFJ7LEiU1EoiDDUitEKHh4_mLCTjXamDZ0Rw5MJWjea3eGknKCVGjcOTdHOY6MZmlV6aa4xqvhJhHxj56mo3a21KwNJc0SP3eTsegaGH99xcFtQLmMvB4",
+      "cid": "17866387114260310572",
+      "fid": "0x94ce650c8ebe49ad:0xf7f2286b951a2a2c",
+      "placeId": "ChIJrUm-jgxlzpQRLCoalWso8vc",
+      "distance_meters": 623
+    },
+    {
+      "position": 8,
+      "title": "ADG Drogaria II",
+      "address": "Av. Nordestina, 5516 - Guaianases, São Paulo - SP, 08431-410, Brasil",
+      "latitude": -23.526056999999998,
+      "longitude": -46.4183087,
+      "rating": 4.6,
+      "ratingCount": 180,
+      "type": "Drogaria",
+      "types": [
+        "Drogaria"
+      ],
+      "website": "http://www.adgemcasa.com.br/",
+      "phoneNumber": "+55 11 2035-1855",
+      "openingHours": {
+        "quinta-feira": "08:00–00:00",
+        "sexta-feira": "08:00–00:00",
+        "sábado": "08:00–00:00",
+        "domingo": "08:00–22:00",
+        "segunda-feira": "08:00–00:00",
+        "terça-feira": "08:00–00:00",
+        "quarta-feira": "08:00–00:00"
+      },
+      "thumbnailUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLdu_gLOnCak2M8Ra8cPv0Tqjjk9ixp-pPQnISiCwzbcDci7b8L0zWUs120OSjAtiQ8ZonRzPBxIn5jS2PgBJu5dLz7KUghdpbhzMINWcDImYFpWP8RUpxln0_70FsaT86eJh659MYRHXxw",
+      "cid": "15341156709832418248",
+      "fid": "0x94ce646b701f128b:0xd4e6bcbf252963c8",
+      "placeId": "ChIJixIfcGtkzpQRyGMpJb-85tQ",
+      "distance_meters": 624
+    },
+    {
+      "position": 16,
+      "title": "Drogaria Baumann",
+      "address": "R. Guabiroba de Minas - Vila Curuçá Velha, São Paulo - SP, 08430-040, Brasil",
+      "latitude": -23.523622,
+      "longitude": -46.4301527,
+      "rating": 4,
+      "ratingCount": 5,
+      "type": "Drogaria",
+      "types": [
+        "Drogaria"
+      ],
+      "phoneNumber": "+55 11 97999-6624",
+      "openingHours": {
+        "quinta-feira": "07:00–22:00",
+        "sexta-feira": "07:00–22:00",
+        "sábado": "07:00–22:00",
+        "domingo": "08:00–20:00",
+        "segunda-feira": "07:00–22:00",
+        "terça-feira": "07:00–22:00",
+        "quarta-feira": "07:00–22:00"
+      },
+      "thumbnailUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLelINp1q_TS99aV_uH9h5bLwpf7Atux6ztkYqo8uphlZlcLPPvDxVdMBx3696sOEcuSMPwqCxN0OV9L0fcUFmoViUzVrc4ZgCAvfg1remtnyjsChYWJwi_Gc1U10IGsDx7ZaCIc",
+      "cid": "9055755666046738004",
+      "fid": "0x94ce640567950aaf:0x7dac81cc7f725e54",
+      "placeId": "ChIJrwqVZwVkzpQRVF5yf8yBrH0",
+      "distance_meters": 630
+    },
+    {
+      "position": 6,
+      "title": "Ultrafarma Popular - Jardim Robru",
+      "address": "Av. Nordestina, 5281 - Jardim Robru, São Paulo - SP, 08431-410, Brasil",
+      "latitude": -23.5240148,
+      "longitude": -46.418162599999995,
+      "rating": 3,
+      "ratingCount": 18,
+      "type": "Farmácia",
+      "types": [
+        "Farmácia"
+      ],
+      "website": "https://ultrafarma.com.br/",
+      "phoneNumber": "+55 11 2511-8877",
+      "openingHours": {
+        "quinta-feira": "07:00–22:00",
+        "sexta-feira": "07:00–22:00",
+        "sábado": "07:00–22:00",
+        "domingo": "07:00–22:00",
+        "segunda-feira": "07:00–22:00",
+        "terça-feira": "07:00–22:00",
+        "quarta-feira": "07:00–22:00"
+      },
+      "thumbnailUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLerz3ZmhrwUeqcpmfMKEpfN96Bc48AWKWoEkIaz09TSEGFAzegD8tHTc9Azalujfk86yRtR2dfzy4MDd6o2gozrSDxPXFqCYxJe9ROLiIn_VHGIACsG-ZRVWddxCrVUpmf-wiAxm6JoQXxR",
+      "cid": "4012875432810922916",
+      "fid": "0x94ce646cefcce215:0x37b098f1ec9643a4",
+      "placeId": "ChIJFeLM72xkzpQRpEOW7PGYsDc",
+      "distance_meters": 667
+    },
+    {
+      "position": 1,
+      "title": "Drogasil",
+      "address": "Av. Nordestina, 5229 - Guaianazes, São Paulo - SP, 08431-410, Brasil",
+      "latitude": -23.523521,
+      "longitude": -46.4181325,
+      "rating": 3.9,
+      "ratingCount": 163,
+      "type": "Farmácia",
+      "types": [
+        "Farmácia"
+      ],
+      "phoneNumber": "+55 11 93094-3320",
+      "openingHours": {
+        "quinta-feira": "07:00–23:00",
+        "sexta-feira": "07:00–23:00",
+        "sábado": "07:00–23:00",
+        "domingo": "07:00–23:00",
+        "segunda-feira": "07:00–23:00",
+        "terça-feira": "07:00–23:00",
+        "quarta-feira": "07:00–23:00"
+      },
+      "thumbnailUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLeyzwEyv_squLYllbsxkzm5hvlYwOefcM4LNT3ARA0QHKBDsfK7Plf26483zzcwHvKXiEpGrA0y1Jy4PVKPSYU-Gm6QXQHKw7rcietEUcrs2_LxGxjUnEzH05jJ99-ZObkGDmET",
+      "cid": "510644843322550101",
+      "fid": "0x94ce65e59cf896d5:0x7162cc78ca02755",
+      "placeId": "ChIJ1Zb4nOVlzpQRVSegjMcsFgc",
+      "distance_meters": 688
+    },
+    {
+      "position": 2,
+      "title": "Drogaleste",
+      "address": "Av. Nordestina, 4923 - Vila Nova Curuca, São Paulo - SP, 08310-163, Brasil",
+      "latitude": -23.5220128,
+      "longitude": -46.4183484,
+      "rating": 4,
+      "ratingCount": 299,
+      "type": "Farmácia",
+      "types": [
+        "Farmácia",
+        "Drogaria"
+      ],
+      "website": "https://www.drogaleste.com.br/lojas/sp-sao-paulo-vila-curuca-30/contato/",
+      "phoneNumber": "+55 11 95399-6537",
+      "openingHours": {
+        "quinta-feira": "Atendimento 24 horas",
+        "sexta-feira": "Atendimento 24 horas",
+        "sábado": "Atendimento 24 horas",
+        "domingo": "Atendimento 24 horas",
+        "segunda-feira": "Atendimento 24 horas",
+        "terça-feira": "Atendimento 24 horas",
+        "quarta-feira": "Atendimento 24 horas"
+      },
+      "thumbnailUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLf8fc-7_BF6xQVvQRFCbarbaT4WmVgi1F-V6L9Lx2zJ5_gx3EKIkuNMD6GoR3Ei92ULEg__ragLFp1gR9SpPLKN6RbhUBv9AGk6W7MIyQXhVUO9KOIWPkhQneTn2YezQ16kmQRH",
+      "cid": "11195861787628476365",
+      "fid": "0x94ce65f3ab16d415:0x9b5fb0fa45f717cd",
+      "placeId": "ChIJFdQWq_NlzpQRzRf3RfqwX5s",
+      "distance_meters": 746
+    },
+    {
+      "position": 10,
+      "title": "Farma & Cia",
+      "address": "Av. Nordestina, 5800 - Guaianases, São Paulo - SP, 08431-410, Brasil",
+      "latitude": -23.5285892,
+      "longitude": -46.4177495,
+      "rating": 4.7,
+      "ratingCount": 30,
+      "type": "Farmácia",
+      "types": [
+        "Farmácia"
+      ],
+      "website": "http://www.farmaecia.com.br/",
+      "phoneNumber": "+55 11 2513-5329",
+      "openingHours": {
+        "quinta-feira": "08:30–22:30",
+        "sexta-feira": "08:30–22:30",
+        "sábado": "08:30–22:00",
+        "domingo": "08:30–20:00",
+        "segunda-feira": "08:30–22:30",
+        "terça-feira": "08:30–22:30",
+        "quarta-feira": "08:30–22:30"
+      },
+      "thumbnailUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLf_0ilDTmCMKce-0f2ccjuG_Qvrmf5H5paKAXlgsjZ7j6lH_4JBJvwyGU88fIgV16zle1dHqHn0TP6bpN-n9SRdlNUlq36uUg5dO8jbXA8--zQbdG7VkwcQFqTzCdWxYxF59xo",
+      "cid": "15560638054670314219",
+      "fid": "0x94ce646a5ece1807:0xd7f27dddef0caaeb",
+      "placeId": "ChIJBxjOXmpkzpQR66oM79198tc",
+      "distance_meters": 750
+    },
+    {
+      "position": 5,
+      "title": "Drogaria Baumann",
+      "address": "Rua Margarida Cristina Baumann, 13 - Jardim Sao Vicente, São Paulo - SP, 08245-490, Brasil",
+      "latitude": -23.5262848,
+      "longitude": -46.432205599999996,
+      "rating": 3.7,
+      "ratingCount": 31,
+      "type": "Farmácia",
+      "types": [
+        "Farmácia",
+        "Drogaria"
+      ],
+      "website": "http://www.farmais.com.br/",
+      "phoneNumber": "+55 11 2052-1429",
+      "openingHours": {
+        "quinta-feira": "07:00–22:00",
+        "sexta-feira": "07:00–22:00",
+        "sábado": "07:00–22:00",
+        "domingo": "08:00–20:00",
+        "segunda-feira": "07:00–22:00",
+        "terça-feira": "07:00–22:00",
+        "quarta-feira": "07:00–22:00"
+      },
+      "thumbnailUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLfEiHrIrH_S_IsHsutBJgOpw_hpK-rUUAh7nJA4hffdp3tRdKrEprjbecMG6osp_PvP7O1hzVJDwiSqaLy541k-2A7Pk9M1ry0V8FvzgBwfiltnmpy8-QXAOFrSXWQm2F1wzHp6vA",
+      "cid": "2954355735508956449",
+      "fid": "0x94ce641adf6b42dd:0x28fffae37b263521",
+      "placeId": "ChIJ3UJr3xpkzpQRITUme-P6_yg",
+      "distance_meters": 796
+    },
+    {
+      "position": 20,
+      "title": "Multi Farmácia",
+      "address": "Av. São Lázaro de Jerusalém, 8 - Jardim Irene, São Paulo - SP, 08431-770, Brasil",
+      "latitude": -23.5313171,
+      "longitude": -46.415577899999995,
+      "rating": 5,
+      "ratingCount": 2,
+      "type": "Farmácia",
+      "types": [
+        "Farmácia"
+      ],
+      "phoneNumber": "+55 11 96596-6644",
+      "openingHours": {
+        "quinta-feira": "08:00–20:00",
+        "sexta-feira": "08:00–20:00",
+        "sábado": "08:00–20:00",
+        "domingo": "08:00–14:00",
+        "segunda-feira": "08:00–20:00",
+        "terça-feira": "08:00–20:00",
+        "quarta-feira": "08:00–20:00"
+      },
+      "thumbnailUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLeekCwU4b3aEsbYhJ62VYt8UoeoAlH9szr_IBcp3YNcqX-imJHgIYor6cYch1lTklEVkGoJnzRbNAfysu3h_FWCZw403qdlasYW_SraoiRnraVwx4d_ZmXaDFiXOINSSZHST8Eh",
+      "cid": "513132892558700550",
+      "fid": "0x94ce651f4dc054dd:0x71f03a5a787b006",
+      "placeId": "ChIJ3VTATR9lzpQRBrCHp6UDHwc",
+      "distance_meters": 1094
+    },
+    {
+      "position": 17,
+      "title": "Drogaria Penninch",
+      "address": "R. Raimundo de Paulo Freitas, 31 - Jardim Robru, São Paulo - SP, 08150-260, Brasil",
+      "latitude": -23.5218246,
+      "longitude": -46.412651499999996,
+      "rating": 5,
+      "ratingCount": 3,
+      "type": "Farmácia",
+      "types": [
+        "Farmácia",
+        "Drogaria"
+      ],
+      "openingHours": {
+        "quinta-feira": "08:00–21:00",
+        "sexta-feira": "08:00–21:00",
+        "sábado": "08:00–20:30",
+        "domingo": "08:00–13:00",
+        "segunda-feira": "08:00–21:00",
+        "terça-feira": "08:00–21:00",
+        "quarta-feira": "08:00–21:00"
+      },
+      "isUnclaimedListing": true,
+      "thumbnailUrl": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=dP4Ja690bkOyP4zth3qHyw&cb_client=search.gws-prod.grass&w=80&h=92&yaw=225.34584&pitch=0&thumbfov=100",
+      "cid": "12008187428593672012",
+      "fid": "0x94ce6471fc45a36f:0xa6a5a6d81da31f4c",
+      "placeId": "ChIJb6NF_HFkzpQRTB-jHdimpaY",
+      "distance_meters": 1277
+    },
+    {
+      "position": 3,
+      "title": "Drogaria Robru",
+      "address": "R. José Maria Alves de Deus, 308 - Parque Guaianazes, São Paulo - SP, 08431-510, Brasil",
+      "latitude": -23.5210775,
+      "longitude": -46.412572999999995,
+      "rating": 4.3,
+      "ratingCount": 26,
+      "type": "Farmácia",
+      "types": [
+        "Farmácia",
+        "Drogaria"
+      ],
+      "website": "https://www.instagram.com/drogaria_robru/",
+      "phoneNumber": "+55 11 98536-7743",
+      "openingHours": {
+        "quinta-feira": "07:00–22:00",
+        "sexta-feira": "07:00–22:00",
+        "sábado": "07:00–22:00",
+        "domingo": "07:00–20:00",
+        "segunda-feira": "07:00–22:00",
+        "terça-feira": "07:00–22:00",
+        "quarta-feira": "07:00–22:00"
+      },
+      "thumbnailUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLfR3sB6y9uJkO-C0eGNieS1cXiWQFTultBYF8qrlvWA2BgbbqecLbq96npJIy18bEhahObd-bewjKhXbu8k7waEO3NKI6FyTPnplj1q5x3HqGHS_zGgvGt0mF7bWtG1_t3NuTDx5YgGOQz5",
+      "cid": "5838640246781272743",
+      "fid": "0x94ce646faab50dd1:0x5107045eb8b262a7",
+      "placeId": "ChIJ0Q21qm9kzpQRp2KyuF4EB1E",
+      "distance_meters": 1315
+    },
+    {
+      "position": 11,
+      "title": "Drogaria Vlafer",
+      "address": "Av. Monsenhor Agnelo, 357 - Vila Progresso (Zona Leste), São Paulo - SP, 08240-670, Brasil",
+      "latitude": -23.5192466,
+      "longitude": -46.435617199999996,
+      "rating": 1,
+      "ratingCount": 1,
+      "type": "Farmácia",
+      "types": [
+        "Farmácia",
+        "Drogaria"
+      ],
+      "phoneNumber": "+55 11 2055-5913",
+      "openingHours": {
+        "quinta-feira": "08:00–19:00",
+        "sexta-feira": "08:00–19:00",
+        "sábado": "08:30–15:00",
+        "domingo": "Fechado",
+        "segunda-feira": "08:00–19:00",
+        "terça-feira": "08:00–19:00",
+        "quarta-feira": "08:00–19:00"
+      },
+      "isUnclaimedListing": true,
+      "thumbnailUrl": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=UMfF3BhYUMFxJtn4o_y-7g&cb_client=search.gws-prod.grass&w=80&h=92&yaw=96.09021&pitch=0&thumbfov=100",
+      "cid": "2694772455280685180",
+      "fid": "0x94ce6400c2cb2d65:0x2565c1454383307c",
+      "placeId": "ChIJZS3LwgBkzpQRfDCDQ0XBZSU",
+      "distance_meters": 1351
+    },
+    {
+      "position": 12,
+      "title": "Drogaria Adonai",
+      "address": "Av. Monsenhor Agnelo, 339 - Vila Progresso (Zona Leste), São Paulo - SP, 08240-670, Brasil",
+      "latitude": -23.519283299999998,
+      "longitude": -46.4356617,
+      "rating": 5,
+      "ratingCount": 5,
+      "type": "Farmácia",
+      "types": [
+        "Farmácia",
+        "Drogaria"
+      ],
+      "phoneNumber": "+55 11 96013-6070",
+      "openingHours": {
+        "quinta-feira": "09:00–19:00",
+        "sexta-feira": "09:00–19:00",
+        "sábado": "09:00–18:00",
+        "domingo": "Fechado",
+        "segunda-feira": "09:00–19:00",
+        "terça-feira": "09:00–19:00",
+        "quarta-feira": "09:00–19:00"
+      },
+      "thumbnailUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLdfjefmMB4zNuNlj9Ed475H7YI-JXChgl5tFvbVby3ZnRDUvDfMpRhdj-yUbjMRwm9nrumhkmcMPy_CqiXFMHbXQLIq5XjZ6XIPiC15HguOX0K9pRAtALpdpjP5hGmNy5K9HsgJ",
+      "cid": "14962803310621801305",
+      "fid": "0x94ce6400de3ce8cf:0xcfa68e55ada6bb59",
+      "placeId": "ChIJz-g83gBkzpQRWbumrVWOps8",
+      "distance_meters": 1353
+    },
+    {
+      "position": 4,
+      "title": "Farmácia e Drogaria em Itaquera - Home Farma",
+      "address": "Estr. Itaquera Guaianazes, 627 - Parada XV de Novembro, São Paulo - SP, 08246-000, Brasil",
+      "latitude": -23.5309438,
+      "longitude": -46.4388704,
+      "rating": 4.8,
+      "ratingCount": 55,
+      "type": "Empresa farmacêutica",
+      "types": [
+        "Empresa farmacêutica",
+        "Drogaria",
+        "Perfumaria",
+        "Farmácia"
+      ],
+      "website": "https://homefarma.commercesuite.com.br/",
+      "phoneNumber": "+55 11 2074-0540",
+      "openingHours": {
+        "quinta-feira": "08:00–20:00",
+        "sexta-feira": "08:00–20:00",
+        "sábado": "08:00–20:00",
+        "domingo": "08:00–14:00",
+        "segunda-feira": "08:00–20:00",
+        "terça-feira": "08:00–20:00",
+        "quarta-feira": "08:00–20:00"
+      },
+      "thumbnailUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLe9m8rr0t7pfRvnDelXm46Ft1JzQD2-yKh-McIIMabnm1VxRJ_G_zHBtiQRPMDLnM1XDYge3-9WOMeiSCaCHaWfOY3pC3hHjodEP00XDSLTMWLoR178qKOv1pFlagqzRIaBWsPi",
+      "cid": "6749160844827825946",
+      "fid": "0x94ce641d8e433bad:0x5da9d6079ff0171a",
+      "placeId": "ChIJrTtDjh1kzpQRGhfwnwfWqV0",
+      "distance_meters": 1582
+    },
+    {
+      "position": 13,
+      "title": "Farmácia e Drogaria Sanly - Jardim Robru, São Paulo",
+      "address": "Rua Dr. José Gravonski, 145 - Jardim Robru, São Paulo - SP, 08441-000, Brasil",
+      "latitude": -23.5275859,
+      "longitude": -46.408224,
+      "rating": 4.3,
+      "ratingCount": 43,
+      "type": "Empresa farmacêutica",
+      "types": [
+        "Empresa farmacêutica",
+        "Drogaria",
+        "Perfumaria",
+        "Farmácia"
+      ],
+      "phoneNumber": "+55 11 2513-0427",
+      "openingHours": {
+        "quinta-feira": "08:00–22:00",
+        "sexta-feira": "08:00–22:00",
+        "sábado": "08:00–22:00",
+        "domingo": "08:00–20:00",
+        "segunda-feira": "08:00–22:00",
+        "terça-feira": "08:00–22:00",
+        "quarta-feira": "08:00–22:00"
+      },
+      "thumbnailUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLc-vyBmXnrCV_VVBPYtzlp7Yx3buvpMZnGGcC8-2841HSlEs2_dWmJA8TUspYmbzdBjHjC-kQpqVlVgceqvSf32byCMNKZ5GJM_4j9j4ybsSvWe7qqzNSYLGUYqloBa1zgswmKP",
+      "cid": "3335727465232477471",
+      "fid": "0x94ce645d647a3a01:0x2e4ae274c8b22d1f",
+      "placeId": "ChIJATp6ZF1kzpQRHy2yyHTiSi4",
+      "distance_meters": 1664
+    },
+    {
+      "position": 14,
+      "title": "Drogaria Sonifarma",
+      "address": "Estrada Dom João Nery, 3253 - Jardim Bartira, São Paulo - SP, 08151-000, Brasil",
+      "latitude": -23.5207203,
+      "longitude": -46.399572199999994,
+      "rating": 5,
+      "ratingCount": 12,
+      "type": "Farmácia",
+      "types": [
+        "Farmácia",
+        "Drogaria"
+      ],
+      "phoneNumber": "+55 11 2568-3260",
+      "openingHours": {
+        "quinta-feira": "08:00–20:00",
+        "sexta-feira": "08:00–20:00",
+        "sábado": "08:00–20:00",
+        "domingo": "08:00–20:00",
+        "segunda-feira": "08:00–20:00",
+        "terça-feira": "08:00–20:00",
+        "quarta-feira": "08:00–20:00"
+      },
+      "isUnclaimedListing": true,
+      "thumbnailUrl": "https://lh3.googleusercontent.com/grass-proxy/AIM7gW2o8HR-HGAIwMPaoK46U9BMYlpsRVXF5QgJKQoT-HzXqtLjny9zNB4DTBNF7T98657El-xzy1cYtNnXpBqL_RhCVfvGwF7UW84Gh6oBUloEmzAAnBQMVfcpQONUUI075_myNYh4tDCE6GBo3-XxLymSwOV6SMFZr3wWZsPHl1kCy4UhhoJoSukZgI0Yj1eGIKqXUh9Luw",
+      "cid": "9556870428708363537",
+      "fid": "0x94ce648a42ee8b17:0x84a0d3053b98dd11",
+      "placeId": "ChIJF4vuQopkzpQREd2YOwXToIQ",
+      "distance_meters": 2595
+    },
+    {
+      "position": 18,
+      "title": "Drogaria Malvinas",
+      "address": "Estrada Dom João Nery, 4287 - Guaianases, São Paulo - SP, 08452-340, Brasil",
+      "latitude": -23.5291568,
+      "longitude": -46.396681699999995,
+      "rating": 4.2,
+      "ratingCount": 6,
+      "type": "Farmácia",
+      "types": [
+        "Farmácia",
+        "Drogaria"
+      ],
+      "phoneNumber": "+55 11 91361-5069",
+      "openingHours": {
+        "quinta-feira": "08:00–20:00",
+        "sexta-feira": "08:00–20:00",
+        "sábado": "08:00–20:00",
+        "domingo": "08:00–14:00",
+        "segunda-feira": "08:00–20:00",
+        "terça-feira": "08:00–20:00",
+        "quarta-feira": "08:00–20:00"
+      },
+      "thumbnailUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLePM3zUCsCF554Ommr9CFY72oW32P87ZUOsK6ju8ZsmaRH8bNTPZBY90yjbbsw1Ip-U8-tQJxpkX9CTWxOfNYm-X6l6ErYXxbMwgtFO22k7DHzIKFU9mXb_U1hQGUIu6km7WGfd",
+      "cid": "16419436469700160744",
+      "fid": "0x94ce64f6c571b2e7:0xe3dd8e79ac926ce8",
+      "placeId": "ChIJ57JxxfZkzpQR6GySrHmO3eM",
+      "distance_meters": 2853
+    },
+    {
+      "position": 15,
+      "title": "Droga Lourdes",
+      "address": "R. Francisco de Góes Araújo, 145 - Jardim Lourdes, São Paulo - SP, 08452-490, Brasil",
+      "latitude": -23.5289646,
+      "longitude": -46.3955166,
+      "rating": 5,
+      "ratingCount": 50,
+      "type": "Farmácia",
+      "types": [
+        "Farmácia"
+      ],
+      "phoneNumber": "+55 11 5197-6699",
+      "openingHours": {
+        "quinta-feira": "08:00–20:00",
+        "sexta-feira": "08:00–20:00",
+        "sábado": "08:00–20:00",
+        "domingo": "08:00–14:00",
+        "segunda-feira": "08:00–20:00",
+        "terça-feira": "08:00–20:00",
+        "quarta-feira": "08:00–20:00"
+      },
+      "isUnclaimedListing": true,
+      "thumbnailUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLdDPOP097aZ_4XGyuPvRf2e5h8zb1cWmGrt-LBJ7b9HUHBa9njmm94MNl1bO8LtCtapDp5z_gs5eAtsAmlWmae-TSt6BqKUouxJZMY4gurMpizrmM3MrcriPeIimZAHtrRx6ZPgSg1VbY4_",
+      "cid": "16279796388532805365",
+      "fid": "0x94ce650040843af5:0xe1ed748fb22f5ef5",
+      "placeId": "ChIJ9TqEQABlzpQR9V4vso907eE",
+      "distance_meters": 2969
+    }
+  ],
+  "Restaurantes, Bares e Lanchonetes": [
+    {
+      "position": 2,
+      "title": "Dona Martinha - Marmitas Congeladas: Fit e Tradicionais",
+      "address": "R. José Vieira Guimarães, 832 - Jardim Santa Teresinha, São Paulo - SP, 08430-000, Brasil",
+      "latitude": -23.5244,
+      "longitude": -46.4227311,
+      "rating": 4.9,
+      "ratingCount": 149,
+      "type": "Restaurante",
+      "types": [
+        "Restaurante"
+      ],
+      "website": "https://instadelivery.com.br/donamartinhacomidasaudavel",
+      "phoneNumber": "+55 11 94998-3469",
+      "openingHours": {
+        "quinta-feira": "09:30–17:00",
+        "sexta-feira": "09:30–17:00",
+        "sábado": "09:30–14:00",
+        "domingo": "Fechado",
+        "segunda-feira": "09:30–17:00",
+        "terça-feira": "09:30–17:00",
+        "quarta-feira": "09:30–17:00"
+      },
+      "bookingLinks": [
+        "https://www.google.com/searchviewer/42?cvd=CLw_EicKJeICIjIgEhkiF9LX29IPEQoNL2cvMTFsbHgzdjEwchgCOgMI8A0%3D&hl=pt-BR&gl=us&fo_m=MfohQo559jFvMUOzJVpjPL1YMfZ3bInYwBDuMfaXTPp5KXh-&utm_source=tactile&gei=zknaarW8MKTs-LYP9MDPiQ8&ei=zknaarW8MKTs-LYP9MDPiQ8&fo_s=OA,SOE&opi=79508299&orderType=2&ebb=1&cs=0&foub=mcpp"
+      ],
+      "thumbnailUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLd7pR8tdluI-jqEFw4fiKuh63xavAUdKyqiG4-He4ob8IKy4s4KBD2lKKXzSt9TiYARVoEK02IWxH3U16XnNXwtXXHeR5eRMbSjnvauZZbHrVRTY-bd8xpKjU0r-BiJ2dk0WjL8wTqq4BP5",
+      "cid": "3973754234340367016",
+      "fid": "0x94ce659975f6b509:0x37259c6c1a8fdaa8",
+      "placeId": "ChIJCbX2dZllzpQRqNqPGmycJTc",
+      "distance_meters": 229
+    },
+    {
+      "position": 11,
+      "title": "Bar e restaurante do Hagi",
+      "address": "R. José Martins dos Santos, 411 - Jardim Santa Teresinha, São Paulo - SP, 08430-110, Brasil",
+      "latitude": -23.5239221,
+      "longitude": -46.42545,
+      "rating": 4.9,
+      "ratingCount": 78,
+      "type": "Restaurante brasileiro",
+      "types": [
+        "Restaurante brasileiro"
+      ],
+      "phoneNumber": "+55 11 93034-4061",
+      "openingHours": {
+        "quinta-feira": "11:00–23:00",
+        "sexta-feira": "11:00–23:00",
+        "sábado": "11:00–23:00",
+        "domingo": "Fechado",
+        "segunda-feira": "11:00–16:00",
+        "terça-feira": "11:00–23:00",
+        "quarta-feira": "11:00–23:00"
+      },
+      "bookingLinks": [
+        "https://www.google.com/searchviewer/42?cvd=CLw_EicKJeICIjIgEhkiF9LX29IPEQoNL2cvMTF2ZDNoandfdBgAOgMI8A0%3D&hl=pt-BR&gl=us&fo_m=MfohQo559jFvMUOzJVpjPL1YMfZ3bInYwBDuMfaXTPp5KXh-&utm_source=tactile&gei=zknaarW8MKTs-LYP9MDPiQ8&ei=zknaarW8MKTs-LYP9MDPiQ8&fo_s=OA,SOE&opi=79508299&ebb=1&cs=0&foub=mcpp"
+      ],
+      "thumbnailUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLeqp0WRcSsJIfoqlX0_D5Pu68VrLYUshao3K5Euz_HISyJEZae4gWeP9l1NUfXP88l55_8OgM4sKjAhToCp69Gp0YBPXX9n2023fa5zC1JtlPZ_JpWdmXzy9cq9meEryDIUlVoo",
+      "cid": "18069410500372084772",
+      "fid": "0x94ce659adf15af49:0xfac3711d3f643824",
+      "placeId": "ChIJSa8V35plzpQRJDhkPx1xw_o",
+      "distance_meters": 229
+    },
+    {
+      "position": 16,
+      "title": "Restaurante vôo de coração",
+      "address": "Rua cotinga 280, travessa da paz, 6A - Vila Nova Curuca, São Paulo - SP, 08032-500, Brasil",
+      "latitude": -23.521339299999998,
+      "longitude": -46.4225809,
+      "rating": 5,
+      "ratingCount": 1,
+      "type": "Restaurante",
+      "types": [
+        "Restaurante"
+      ],
+      "phoneNumber": "+55 11 96326-4286",
+      "openingHours": {
+        "quinta-feira": "11:00–20:00",
+        "sexta-feira": "11:00–20:00",
+        "sábado": "11:00–20:00",
+        "domingo": "11:00–16:00",
+        "segunda-feira": "11:00–20:00",
+        "terça-feira": "11:00–20:00",
+        "quarta-feira": "11:00–20:00"
+      },
+      "thumbnailUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLeVstsWziSBQPUpXTqEciTse3_l54lBW6zY3V9YEoHEZdFxejlnrhAklMq9lBq9wWwEpbh0vv4Wdgvr6iwXyBzwTwTpSi7tNvb9vsyECC4uLY60Tlk3HahLCNZmywT_oqSSRfp8",
+      "cid": "13240229376551189971",
+      "fid": "0x94ce653c4d84acc7:0xb7bebe77de067dd3",
+      "placeId": "ChIJx6yETTxlzpQR030G3ne-vrc",
+      "distance_meters": 525
+    },
+    {
+      "position": 4,
+      "title": "Restaurante Paulinha",
+      "address": "Av. Nordestina, 5574 - Guaianases, São Paulo - SP, 08431-410, Brasil",
+      "latitude": -23.526575899999997,
+      "longitude": -46.418194799999995,
+      "rating": 4.5,
+      "ratingCount": 163,
+      "type": "Restaurante",
+      "types": [
+        "Restaurante"
+      ],
+      "phoneNumber": "+55 11 2514-7634",
+      "openingHours": {
+        "quinta-feira": "09:00–18:00",
+        "sexta-feira": "09:00–18:00",
+        "sábado": "09:00–18:00",
+        "domingo": "Fechado",
+        "segunda-feira": "09:00–18:00",
+        "terça-feira": "09:00–18:00",
+        "quarta-feira": "09:00–18:00"
+      },
+      "isUnclaimedListing": true,
+      "thumbnailUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLfLYRX1tmgwWjHPE15IbNjuHPakwmNdXOJfUhCVaK1nSxs5bJNdor6jq0GtB7JqVLBcKReLE8mqjLYx2yMSUAk9075rvaJjBXiixQZW3ApivzXlHiS3-tp-7meRZEuBhA7e8Gfi",
+      "cid": "16594444765148889806",
+      "fid": "0x94ce646b0d1829d1:0xe64b4f97bf8a42ce",
+      "placeId": "ChIJ0SkYDWtkzpQRzkKKv5dPS-Y",
+      "distance_meters": 642
+    },
+    {
+      "position": 7,
+      "title": "RESTAURANTE CENTRAL NORDESTE",
+      "address": "Av. Nordestina, 5447 - Guaianases, São Paulo - SP, 08431-410, Brasil",
+      "latitude": -23.5253637,
+      "longitude": -46.4180843,
+      "rating": 4.5,
+      "ratingCount": 191,
+      "type": "Restaurante brasileiro",
+      "types": [
+        "Restaurante brasileiro"
+      ],
+      "website": "https://linktr.ee/centralnordeste",
+      "phoneNumber": "+55 11 93226-5479",
+      "openingHours": {
+        "quinta-feira": "11:00–19:00",
+        "sexta-feira": "11:00–19:00",
+        "sábado": "11:00–19:00",
+        "domingo": "11:00–16:00",
+        "segunda-feira": "11:00–19:00",
+        "terça-feira": "11:00–19:00",
+        "quarta-feira": "11:00–19:00"
+      },
+      "bookingLinks": [
+        "https://www.google.com/searchviewer/42?cvd=CLw_EicKJeICIjIgEhkiF9LX29IPEQoNL2cvMTFzNWg5c3p6dhgAOgMI8A0%3D&hl=pt-BR&gl=us&fo_m=MfohQo559jFvMUOzJVpjPL1YMfZ3bInYwBDuMfaXTPp5KXh-&utm_source=tactile&gei=zknaarW8MKTs-LYP9MDPiQ8&ei=zknaarW8MKTs-LYP9MDPiQ8&fo_s=OA,SOE&opi=79508299&ebb=1&cs=0&foub=mcpp"
+      ],
+      "thumbnailUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLcDC693ojf9RH-tmOYrgIop9PVYSwhKkbeX7lbtOsDXZmq8-iO0AEnuAxI6MHClMfKzKjcxd3PLHJT59TwcXHicObsddrUawxKnmcTWqx--5EqXntm5Yh8ZHjK-b7m8M4YRwN7Q",
+      "cid": "17920497023030686930",
+      "fid": "0x94ce655bbf10b0d1:0xf8b26518783074d2",
+      "placeId": "ChIJ0bAQv1tlzpQR0nQweBhlsvg",
+      "distance_meters": 648
+    },
+    {
+      "position": 12,
+      "title": "Padaria Estrela do Lageado",
+      "address": "Av. Nordestina, 5279 - Parque Guaianazes, São Paulo - SP, 08431-410, Brasil",
+      "latitude": -23.523827,
+      "longitude": -46.4180579,
+      "rating": 4.6,
+      "ratingCount": 11431,
+      "type": "Padaria",
+      "types": [
+        "Padaria",
+        "Restaurante de café da manhã",
+        "Pizzaria"
+      ],
+      "website": "https://linktr.ee/EstreladoLageado_",
+      "description": "Em ambiente climatizado e familiar, a casa oferece pães, doces, bolos e cafés, além de sanduíches e almoço.",
+      "openingHours": {
+        "quinta-feira": "06:00–22:00",
+        "sexta-feira": "06:00–22:00",
+        "sábado": "06:00–22:00",
+        "domingo": "06:30–14:00",
+        "segunda-feira": "06:00–22:00",
+        "terça-feira": "06:00–22:00",
+        "quarta-feira": "06:00–22:00"
+      },
+      "thumbnailUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLf0mv1tBN8sQ21VrwugfZYQXAMeYPRH7_qm3KKYPtMB2fekH_X4FfFXDSEjxmVgSb-INr9Au8T1r8XPZuOqOTfG48OH2MBosYb0uZ251HoqKe0p_MRrhmlb3onjWv5HTbAdM52C",
+      "cid": "2516594190558602854",
+      "fid": "0x94ce646cf0145ca9:0x22ecbd15340ea666",
+      "placeId": "ChIJqVwU8GxkzpQRZqYONBW97CI",
+      "distance_meters": 683
+    },
+    {
+      "position": 1,
+      "title": "Restaurante Sabor&Aroma",
+      "address": "R. Jabiru, 1441 - Parque Guaianazes, São Paulo - SP, 08431-430, Brasil",
+      "latitude": -23.526065199999998,
+      "longitude": -46.4174036,
+      "rating": 4.9,
+      "ratingCount": 45,
+      "type": "Restaurante brasileiro",
+      "types": [
+        "Restaurante brasileiro",
+        "Restaurante familiar"
+      ],
+      "phoneNumber": "+55 11 95150-7165",
+      "openingHours": {
+        "quinta-feira": "10:00–16:00",
+        "sexta-feira": "10:00–16:00",
+        "sábado": "10:00–16:00",
+        "domingo": "10:00–14:00",
+        "segunda-feira": "10:40–16:00",
+        "terça-feira": "10:00–16:00",
+        "quarta-feira": "10:00–16:00"
+      },
+      "thumbnailUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLeAzpOgoMrtIejbNotqcTYg5hETN_IlQmAqmmnbb-3LbI5fwZf3MJZKp8NmQGyRXjjd1tf_Ty7LNhpY8ZUfhrNO72Jp0wQw14GFpik_oSzWgpHW7kDj9Dzp0iVvh_u0L7wW6BeOvA",
+      "cid": "6440395961989107677",
+      "fid": "0x94ce65fd21286f3f:0x5960e20137388fdd",
+      "placeId": "ChIJP28oIf1lzpQR3Y84NwHiYFk",
+      "distance_meters": 716
+    },
+    {
+      "position": 15,
+      "title": "Boteco Cheirosa",
+      "address": "Av. Coroa de Frade, 253 - Vila Progresso (Zona Leste), São Paulo - SP, 08245-470, Brasil",
+      "latitude": -23.5240191,
+      "longitude": -46.4314867,
+      "rating": 4.5,
+      "ratingCount": 381,
+      "type": "Bar com música ao vivo",
+      "types": [
+        "Bar com música ao vivo",
+        "Bar e Grill",
+        "Bar",
+        "Restaurante especializado em porções pequenas"
+      ],
+      "website": "https://www.instagram.com/boteco_cheirosa?igsh=MTZ6ZXdxczh4YXltZg==",
+      "phoneNumber": "+55 11 94217-6994",
+      "openingHours": {
+        "quinta-feira": "16:00–02:00",
+        "sexta-feira": "16:00–04:00",
+        "sábado": "16:00–04:00",
+        "domingo": "16:00–03:00",
+        "segunda-feira": "Fechado",
+        "terça-feira": "16:00–00:00",
+        "quarta-feira": "16:00–02:00"
+      },
+      "bookingLinks": [
+        "https://www.google.com/searchviewer/42?cvd=CLw_EicKJeICIjIgEhkiF9LX29IPEQoNL2cvMTFnZjhnd2N3cBgAOgMI8A0%3D&hl=pt-BR&gl=us&fo_m=MfohQo559jFvMUOzJVpjPL1YMfZ3bInYwBDuMfaXTPp5KXh-&utm_source=tactile&gei=zknaarW8MKTs-LYP9MDPiQ8&ei=zknaarW8MKTs-LYP9MDPiQ8&fo_s=OA,SOE&opi=79508299&ebb=1&cs=0&foub=mcpp"
+      ],
+      "thumbnailUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLec48neAF9OQ5I413KkyOgPm8VwcThWeMFK-nk8Ar9p1EsbO0WDnUh3403oPuhUaXM5_c2SV2GWzwC0oqlOpujEt8C64ZmsGwLS7c2fNNMQEji8KpFBDNIm0XpTCfrCfrCYLSa9",
+      "cid": "4617212008789901848",
+      "fid": "0x94ce6405181e2fc7:0x4013a1dbe4970218",
+      "placeId": "ChIJxy8eGAVkzpQRGAKX5NuhE0A",
+      "distance_meters": 745
+    },
+    {
+      "position": 13,
+      "title": "shinko oficial",
+      "address": "Av. Nordestina, 4731 - Vila Nova Curuca, São Paulo - SP, 08032-000, Brasil",
+      "latitude": -23.519741999999997,
+      "longitude": -46.4195886,
+      "rating": 4.4,
+      "ratingCount": 2862,
+      "type": "Restaurante japonês",
+      "types": [
+        "Restaurante japonês"
+      ],
+      "website": "https://www.instagram.com/shinkosushioficial",
+      "phoneNumber": "+55 11 2892-0640",
+      "openingHours": {
+        "quinta-feira": "11:00–23:00",
+        "sexta-feira": "11:00–00:00",
+        "sábado": "11:00–00:00",
+        "domingo": "11:00–23:00",
+        "segunda-feira": "11:00–23:00",
+        "terça-feira": "11:00–23:00",
+        "quarta-feira": "11:00–23:00"
+      },
+      "bookingLinks": [
+        "https://www.google.com/searchviewer/42?cvd=CLw_EicKJeICIjIgEhkiF9LX29IPEQoNL2cvMTFubm5xczFuYhgAOgMI8A0%3D&hl=pt-BR&gl=us&fo_m=MfohQo559jFvMUOzJVpjPL1YMfZ3bInYwBDuMfaXTPp5KXh-&utm_source=tactile&gei=zknaarW8MKTs-LYP9MDPiQ8&ei=zknaarW8MKTs-LYP9MDPiQ8&fo_s=OA,SOE&opi=79508299&ebb=1&cs=0&foub=mcpp"
+      ],
+      "thumbnailUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLcPVmdc6PzRt6WVaFcWdux7EtyiZnLxvL2FhdoCkZ0W6iqlVJuGMZ3L-uc7upCbKqc3t1j6EgPAFrgWgP0V1OPD7ZLCdtTuR8mkT4HOKGO6m99z4VlLk7ds9T0VuYub0XEAjTrm",
+      "cid": "13358850059569146911",
+      "fid": "0x94ce6505a4927187:0xb9642b59d8532c1f",
+      "placeId": "ChIJh3GSpAVlzpQRHyxT2FkrZLk",
+      "distance_meters": 830
+    },
+    {
+      "position": 9,
+      "title": "Lanchonete e Restaurante XV de Novembro",
+      "address": "R. Damásio Pinto, 1461 - Parada XV de Novembro, São Paulo - SP, 08246-063, Brasil",
+      "latitude": -23.5266128,
+      "longitude": -46.432705399999996,
+      "rating": 4.6,
+      "ratingCount": 69,
+      "type": "Restaurante",
+      "types": [
+        "Restaurante"
+      ],
+      "phoneNumber": "+55 11 2056-5459",
+      "openingHours": {
+        "quinta-feira": "10:00–19:00",
+        "sexta-feira": "10:00–19:00",
+        "sábado": "10:00–19:00",
+        "domingo": "Fechado",
+        "segunda-feira": "10:00–19:00",
+        "terça-feira": "10:00–19:00",
+        "quarta-feira": "10:00–19:00"
+      },
+      "isUnclaimedListing": true,
+      "thumbnailUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLfXC2tyV4TCHUjiJbP_-jWlO4PmwW5PcyuxBjt2Af0399TiCfbZKerqjhw3n4F3zyYriATl78MZ8uc_NBe2u_OHKux-m47Eo9I-3HdOrCeQpiZn_w-x5U9XyDA4nc66Ur2q8qSG",
+      "cid": "16720886642994888188",
+      "fid": "0x94ce641b24d3150f:0xe80c85cf8d48bdfc",
+      "placeId": "ChIJDxXTJBtkzpQR_L1Ijc-FDOg",
+      "distance_meters": 850
+    },
+    {
+      "position": 18,
+      "title": "Tia Carminha Restaurante",
+      "address": "R. Jabiru, 955 - Vila Nova Curuca, São Paulo - SP, 08031-020, Brasil",
+      "latitude": -23.521486799999998,
+      "longitude": -46.4174581,
+      "rating": 4.1,
+      "ratingCount": 210,
+      "type": "Restaurante",
+      "types": [
+        "Restaurante"
+      ],
+      "phoneNumber": "+55 11 2153-0012",
+      "openingHours": {
+        "quinta-feira": "08:00–15:30",
+        "sexta-feira": "08:00–15:30",
+        "sábado": "08:00–15:30",
+        "domingo": "Fechado",
+        "segunda-feira": "08:00–15:30",
+        "terça-feira": "08:00–15:30",
+        "quarta-feira": "08:00–15:30"
+      },
+      "thumbnailUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLdOIVYeNY50Ry4tv4zZH1n09eA_dhAGcdF15CI0T5vSPmohVLnj714ryXgXmXFHa5hGyorx0WLBF9p9S6n6wwkA-rWWJscBQLFwZ_twmLW0yghwG7TDpPvWYl6P3nqGfAv4VDK9Mw",
+      "cid": "6339310832711191656",
+      "fid": "0x94ce646d72ff2857:0x57f9c19d80894c68",
+      "placeId": "ChIJVyj_cm1kzpQRaEyJgJ3B-Vc",
+      "distance_meters": 854
+    },
+    {
+      "position": 14,
+      "title": "Hamburgueria Morelatto",
+      "address": "Rua Suzana de Melo, 991 Vila Progresso - Itaquera, São Paulo - SP, 08245-160, Brasil",
+      "latitude": -23.5199262,
+      "longitude": -46.434335399999995,
+      "rating": 4.7,
+      "ratingCount": 233,
+      "type": "Hamburgueria",
+      "types": [
+        "Hamburgueria"
+      ],
+      "website": "https://www.instagram.com/morelattoo/",
+      "phoneNumber": "+55 11 96924-5498",
+      "openingHours": {
+        "quinta-feira": "11:00–00:30",
+        "sexta-feira": "11:00–00:30",
+        "sábado": "11:00–00:30",
+        "domingo": "11:00–00:00",
+        "segunda-feira": "11:00–00:00",
+        "terça-feira": "11:00–00:00",
+        "quarta-feira": "11:00–00:00"
+      },
+      "bookingLinks": [
+        "https://www.google.com/searchviewer/42?cvd=CLw_EicKJeICIjIgEhkiF9LX29IPEQoNL2cvMTF0NWptajN4axgAOgMI8A0%3D&hl=pt-BR&gl=us&fo_m=MfohQo559jFvMUOzJVpjPL1YMfZ3bInYwBDuMfaXTPp5KXh-&utm_source=tactile&gei=zknaarW8MKTs-LYP9MDPiQ8&ei=zknaarW8MKTs-LYP9MDPiQ8&fo_s=OA,SOE&opi=79508299&ebb=1&cs=0&foub=mcpp"
+      ],
+      "thumbnailUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLeMaGu1Uiq0V9p7RHnpQraqiVYUTsdlUvce3OnwPzGvFpYaj-51lxTLWMih1dREVa8cD0ev4HjBpptRCQawF2EcloHXpCX-1jnEZz2hvSb72w9QLHRRHcPkWSkpkA1xoY042g",
+      "cid": "4690721698159133028",
+      "fid": "0x94ce65f85d1f259b:0x4118ca882efe0164",
+      "placeId": "ChIJmyUfXfhlzpQRZAH-LojKGEE",
+      "distance_meters": 1200
+    },
+    {
+      "position": 8,
+      "title": "Xavier Bar E Restaurante",
+      "address": "R. Francisco Monteiro Tavares, 162 - Vila Curuçá Velha, São Paulo - SP, 08150-190, Brasil",
+      "latitude": -23.5201058,
+      "longitude": -46.411049899999995,
+      "rating": 4.7,
+      "ratingCount": 86,
+      "type": "Restaurante brasileiro",
+      "types": [
+        "Restaurante brasileiro"
+      ],
+      "phoneNumber": "+55 11 2511-7666",
+      "openingHours": {
+        "quinta-feira": "10:00–18:00",
+        "sexta-feira": "10:00–18:00",
+        "sábado": "10:00–18:00",
+        "domingo": "Fechado",
+        "segunda-feira": "10:00–18:00",
+        "terça-feira": "10:00–19:00",
+        "quarta-feira": "10:00–18:00"
+      },
+      "thumbnailUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLfhwC-1VPQrCfZFcaasxN2Lgd83oMEb44HQBQ-At7M7J4qZWrBDv8HTG5wImkv-vDFbHuksqUN1e1kF0q9s-RJAeVLMZuh0xXW7xNhEcYw1ioMAjFy6P4IVnetH4WHn4x7FGY-S",
+      "cid": "3174847814310719712",
+      "fid": "0x94ce646f9ad1f905:0x2c0f53441bea70e0",
+      "placeId": "ChIJBfnRmm9kzpQR4HDqG0RTDyw",
+      "distance_meters": 1501
+    },
+    {
+      "position": 3,
+      "title": "Restaurante Jeitinho brasileiro",
+      "address": "Rua Sāo José de Mossamedes, 521B - Lajeado, São Paulo - SP, 08440-540, Brasil",
+      "latitude": -23.5295396,
+      "longitude": -46.409364599999996,
+      "rating": 4.8,
+      "ratingCount": 15,
+      "type": "Restaurante brasileiro",
+      "types": [
+        "Restaurante brasileiro"
+      ],
+      "website": "http://pedido.anota.ai/loja/restaurante-jeitinho-brasileiro-2?f=msa",
+      "openingHours": {
+        "quinta-feira": "11:00–17:00",
+        "sexta-feira": "11:00–17:00",
+        "sábado": "11:00–17:00",
+        "domingo": "Fechado",
+        "segunda-feira": "11:00–17:00",
+        "terça-feira": "11:00–17:00",
+        "quarta-feira": "11:00–17:00"
+      },
+      "bookingLinks": [
+        "https://www.google.com/searchviewer/42?cvd=CLw_EicKJeICIjIgEhkiF9LX29IPEQoNL2cvMTFqaDRycnc4MhgAOgMI8A0%3D&hl=pt-BR&gl=us&fo_m=MfohQo559jFvMUOzJVpjPL1YMfZ3bInYwBDuMfaXTPp5KXh-&utm_source=tactile&gei=zknaarW8MKTs-LYP9MDPiQ8&ei=zknaarW8MKTs-LYP9MDPiQ8&fo_s=OA,SOE&opi=79508299&ebb=1&cs=0&foub=mcpp"
+      ],
+      "thumbnailUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLfsxZjMAxcHLB_kcgtGAmYs-SZGRgQw61V-55gvO2gAf_ovOlOfGRKxDlZdcIh5kKh32E3vGwQPUMmXOxyAu8akGPByVgZEzyzV25MtwwpPrI6t-fP8QVvcnjMAFeBqNEo9mHRx",
+      "cid": "15111302701177551541",
+      "fid": "0x94ce65b8de941211:0xd1b621be5d16bab5",
+      "placeId": "ChIJERKU3rhlzpQRtboWXb4httE",
+      "distance_meters": 1592
+    },
+    {
+      "position": 5,
+      "title": "L & M Comida Caseira",
+      "address": "Av. Teodoro Bernardo do Nascimento, 863 - Jardim Robru, São Paulo - SP, 08150-000, Brasil",
+      "latitude": -23.519897999999998,
+      "longitude": -46.4101679,
+      "rating": 4.6,
+      "ratingCount": 138,
+      "type": "Restaurante",
+      "types": [
+        "Restaurante"
+      ],
+      "website": "https://app.anota.ai/restaurante-lm-refeicoes?utm_source=portal-share-btn&from=msa",
+      "phoneNumber": "+55 11 2628-3906",
+      "openingHours": {
+        "quinta-feira": "11:00–16:00",
+        "sexta-feira": "11:00–16:00",
+        "sábado": "11:00–16:00",
+        "domingo": "11:00–16:00",
+        "segunda-feira": "11:00–16:00",
+        "terça-feira": "11:00–16:00",
+        "quarta-feira": "11:00–16:00"
+      },
+      "bookingLinks": [
+        "https://www.google.com/searchviewer/42?cvd=CLw_EicKJeICIjIgEhkiF9LX29IPEQoNL2cvMTFuX185X3IxbRgAOgMI8A0%3D&hl=pt-BR&gl=us&fo_m=MfohQo559jFvMUOzJVpjPL1YMfZ3bInYwBDuMfaXTPp5KXh-&utm_source=tactile&gei=zknaarW8MKTs-LYP9MDPiQ8&ei=zknaarW8MKTs-LYP9MDPiQ8&fo_s=OA,SOE&opi=79508299&ebb=1&cs=0&foub=mcpp"
+      ],
+      "thumbnailUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLeuDBhsDnXNVne34XcOdgx8cqBOO1qfYjS8qRBLwdCQ9fUoLZI34Pmwx7OgG28xGQEa76jFf4YgdiylY0DG_38m2bqQ4pwXnzQPFrryUhBzEdZHnqc6JTkUyIeEglnC-X56noRk",
+      "cid": "473218651334754827",
+      "fid": "0x94ce64657b8889ff:0x69135db2de5c20b",
+      "placeId": "ChIJ_4mIe2VkzpQRC8LlLds1kQY",
+      "distance_meters": 1592
+    },
+    {
+      "position": 6,
+      "title": "Restaurante e Casa do Norte Kactos",
+      "address": "Av. Teodoro Bernardo do Nascimento, 20 - Jardim Robru, São Paulo - SP, 08150-000, Brasil",
+      "latitude": -23.5274841,
+      "longitude": -46.408355199999995,
+      "rating": 4.6,
+      "ratingCount": 300,
+      "type": "Restaurante",
+      "types": [
+        "Restaurante"
+      ],
+      "phoneNumber": "+55 11 94484-1099",
+      "openingHours": {
+        "quinta-feira": "11:00–18:00",
+        "sexta-feira": "11:00–18:00",
+        "sábado": "11:00–18:00",
+        "domingo": "11:00–18:00",
+        "segunda-feira": "Fechado",
+        "terça-feira": "11:00–18:00",
+        "quarta-feira": "11:00–18:00"
+      },
+      "bookingLinks": [
+        "https://www.google.com/searchviewer/42?cvd=CLw_EicKJeICIjIgEhkiF9LX29IPEQoNL2cvMTF5MzE0eGhrbBgAOgMI8A0%3D&hl=pt-BR&gl=us&fo_m=MfohQo559jFvMUOzJVpjPL1YMfZ3bInYwBDuMfaXTPp5KXh-&utm_source=tactile&gei=zknaarW8MKTs-LYP9MDPiQ8&ei=zknaarW8MKTs-LYP9MDPiQ8&fo_s=OA,SOE&opi=79508299&ebb=1&cs=0&foub=mcpp"
+      ],
+      "thumbnailUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLcHO4UnbXbpdquRtG6sKCbikqpDrTfc1tTKy90gce-1ssjvqbfsMiK1bjF3vRWl6kzoXhVvzLq1D--pImF3FZJkcREifO1znB4AQtl8GB8l47M7bsdROnPklBaSFwK8wxeOfnwx",
+      "cid": "3651425701350243060",
+      "fid": "0x94ce65002c40bdc9:0x32ac78544cb67af4",
+      "placeId": "ChIJyb1ALABlzpQR9Hq2TFR4rDI",
+      "distance_meters": 1649
+    },
+    {
+      "position": 20,
+      "title": "Casa Do Norte",
+      "address": "Estrada Dom João Nery, 3323 - Jardim Bartira, São Paulo - SP, 08151-000, Brasil",
+      "latitude": -23.521314699999998,
+      "longitude": -46.3993963,
+      "rating": 4.3,
+      "ratingCount": 35,
+      "type": "Restaurante brasileiro",
+      "types": [
+        "Restaurante brasileiro"
+      ],
+      "phoneNumber": "+55 11 2568-7312",
+      "openingHours": {
+        "quinta-feira": "07:30–18:30",
+        "sexta-feira": "07:30–18:30",
+        "sábado": "07:30–18:30",
+        "domingo": "Fechado",
+        "segunda-feira": "07:30–18:30",
+        "terça-feira": "07:30–18:30",
+        "quarta-feira": "07:30–18:30"
+      },
+      "isUnclaimedListing": true,
+      "thumbnailUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLc2KggD5DOWktlk-CmPEuXlUKvljqjT3ff9WMkeu8nPUNrhUrcyOc3jO4q0lsuWhWux6Xtz_8MZzDhkDs9QwoSvOHaQlLO1ahNqsZK4WQr3M0y8xt6TRe9AlPZ3FdyLSqPI-T7BuA",
+      "cid": "11404508799515459254",
+      "fid": "0x94ce648af60683ff:0x9e44f45458ef7eb6",
+      "placeId": "ChIJ_4MG9opkzpQRtn7vWFT0RJ4",
+      "distance_meters": 2599
+    },
+    {
+      "position": 19,
+      "title": "Restaurante Chão Mineiro",
+      "address": "Estrada Dom João Nery, 4161 - Cs 3 - Guaianases, São Paulo - SP, 08452-340, Brasil",
+      "latitude": -23.5286583,
+      "longitude": -46.3969083,
+      "rating": 5,
+      "ratingCount": 5,
+      "type": "Restaurante",
+      "types": [
+        "Restaurante"
+      ],
+      "phoneNumber": "+55 11 3808-3722",
+      "openingHours": {
+        "quinta-feira": "11:00–15:00",
+        "sexta-feira": "11:00–15:00",
+        "sábado": "11:00–15:00",
+        "domingo": "Fechado",
+        "segunda-feira": "11:00–15:00",
+        "terça-feira": "11:00–15:00",
+        "quarta-feira": "11:00–15:00"
+      },
+      "isUnclaimedListing": true,
+      "thumbnailUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLdlatF_e3Ih0WqRir5Q8s0RnKJInIegGZnFYHLS0SrUkCmm4Vn5BjPRMn9QSr1houi5YM0G5LGCblGnaKcaYg9D8pKs-d7OAM3xHLn8kxChS0xsBHsgX30MghpZ3anm97ikWnrF",
+      "cid": "7551020906056544464",
+      "fid": "0x94ce64f6a69eaaab:0x68ca9d81cd0c70d0",
+      "placeId": "ChIJq6qepvZkzpQR0HAMzYGdymg",
+      "distance_meters": 2824
+    },
+    {
+      "position": 17,
+      "title": "Restaurante da Sol",
+      "address": "Rua Francisco de Soutomaior - Lajeado, São Paulo - SP, 08452-430, Brasil",
+      "latitude": -23.5265782,
+      "longitude": -46.3908639,
+      "rating": 3.6,
+      "ratingCount": 37,
+      "type": "Restaurante",
+      "types": [
+        "Restaurante"
+      ],
+      "phoneNumber": "+55 11 95827-6107",
+      "isUnclaimedListing": true,
+      "thumbnailUrl": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=S3PKJ7FZNNrPRlKdG4evPg&cb_client=search.gws-prod.grass&w=80&h=92&yaw=161.4339&pitch=3.9482956&thumbfov=100",
+      "cid": "12008495169716727224",
+      "fid": "0x94ce657cb048c9df:0xa6a6bebbadf5adb8",
+      "placeId": "ChIJ38lIsHxlzpQRuK31rbu-pqY",
+      "distance_meters": 3423
+    },
+    {
+      "position": 10,
+      "title": "Parada 20 Restaurante e Churrascaria",
+      "address": "Rua Francisco de Soutomaior, 464 - Jardim Lourdes, São Paulo - SP, 08452-430, Brasil",
+      "latitude": -23.5256178,
+      "longitude": -46.3898131,
+      "rating": 4.4,
+      "ratingCount": 82,
+      "type": "Churrascaria",
+      "types": [
+        "Churrascaria"
+      ],
+      "phoneNumber": "+55 11 96969-9739",
+      "openingHours": {
+        "quinta-feira": "11:00–16:00",
+        "sexta-feira": "11:00–16:00",
+        "sábado": "11:00–16:00",
+        "domingo": "11:00–16:00",
+        "segunda-feira": "11:00–16:00",
+        "terça-feira": "11:00–16:00",
+        "quarta-feira": "11:00–16:00"
+      },
+      "bookingLinks": [
+        "https://www.google.com/searchviewer/42?cvd=CLw_EicKJeICIjIgEhkiF9LX29IPEQoNL2cvMTFwYjdicjZyNxgAOgMI8A0%3D&hl=pt-BR&gl=us&fo_m=MfohQo559jFvMUOzJVpjPL1YMfZ3bInYwBDuMfaXTPp5KXh-&utm_source=tactile&gei=zknaarW8MKTs-LYP9MDPiQ8&ei=zknaarW8MKTs-LYP9MDPiQ8&fo_s=OA,SOE&opi=79508299&ebb=1&cs=0&foub=mcpp"
+      ],
+      "thumbnailUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLdsTToI_Y9Igz3XL3GcRMAgwDf631f_UmR9ynxwxv3fDhYI_MrVpCv_JOzwaIHQbSgXOCdClZ8nV5mqv3tbZ7U5OcargtICumBdXeYbtYT29GRl6HeJfhBl1OmRUzXCH7NpN6o",
+      "cid": "14394153493809658542",
+      "fid": "0x94ce65c047ccc375:0xc7c24e56d0f8faae",
+      "placeId": "ChIJdcPMR8BlzpQRrvr40FZOwsc",
+      "distance_meters": 3529
+    }
+  ],
+  "Pizzarias e Lanches": [
+    {
+      "position": 20,
+      "title": "Pizzaria Justiniano",
+      "address": "Rua Justiniano de Menezes Travessa da, R. José Vieira Guimarães - Guaianases, São Paulo - SP, 08430-130, Brasil",
+      "latitude": -23.5245577,
+      "longitude": -46.4240517,
+      "rating": 4.6,
+      "ratingCount": 11,
+      "type": "Pizza para levar",
+      "types": [
+        "Pizza para levar"
+      ],
+      "phoneNumber": "+55 11 2016-5271",
+      "openingHours": {
+        "quinta-feira": "18:30–23:00",
+        "sexta-feira": "18:00–00:00",
+        "sábado": "18:00–00:00",
+        "domingo": "18:30–23:30",
+        "segunda-feira": "Fechado",
+        "terça-feira": "18:30–23:00",
+        "quarta-feira": "18:30–23:00"
+      },
+      "thumbnailUrl": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=eUjrdRP1CA1giSw_MjWnjA&cb_client=search.gws-prod.grass&w=80&h=92&yaw=74.116585&pitch=1.7090002&thumbfov=100",
+      "cid": "14497770598058085252",
+      "fid": "0x94ce6515fabb32d5:0xc9326d8be45acb84",
+      "placeId": "ChIJ1TK7-hVlzpQRhMta5IttMsk",
+      "distance_meters": 138
+    },
+    {
+      "position": 2,
+      "title": "A Melhor pizzaria ||",
+      "address": "R. Santa Etelvina, 19 - Jardim Santa Teresinha, São Paulo - SP, 08430-020, Brasil",
+      "latitude": -23.5251128,
+      "longitude": -46.428535499999995,
+      "rating": 4.9,
+      "ratingCount": 12,
+      "type": "Pizzaria",
+      "types": [
+        "Pizzaria"
+      ],
+      "website": "https://www.instagram.com/amelhor0001",
+      "phoneNumber": "+55 11 97177-0001",
+      "openingHours": {
+        "quinta-feira": "07:00–00:00",
+        "sexta-feira": "07:00–00:00",
+        "sábado": "07:00–00:00",
+        "domingo": "08:00–23:00",
+        "segunda-feira": "07:00–00:00",
+        "terça-feira": "07:00–00:00",
+        "quarta-feira": "07:00–00:00"
+      },
+      "thumbnailUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLdWgpCok1X3HjGp6tRxuv3d3mGEw_-ggr70GWQgTRhD_NVapU1eRq0nrZ0AvFmvYibNsBQ3ghtYUy-J7YSKcNJjtuY3beenEsQZKKsbmFyjiC7y__JMrIirgGhHq_ISKujj1GQTIL15zVo",
+      "cid": "16169510025816629411",
+      "fid": "0x94ce655868ff93cf:0xe065a3b2e0eae0a3",
+      "placeId": "ChIJz5P_aFhlzpQRo-Dq4LKjZeA",
+      "distance_meters": 425
+    },
+    {
+      "position": 5,
+      "title": "Pizzaria e Hamburgueria 2K",
+      "address": "R. José Vieira Guimarães, 191 - Jardim Santa Teresinha, São Paulo - SP, 08430-080, Brasil",
+      "latitude": -23.523342,
+      "longitude": -46.4285408,
+      "rating": 4.9,
+      "ratingCount": 20,
+      "type": "Pizzaria",
+      "types": [
+        "Pizzaria"
+      ],
+      "phoneNumber": "+55 11 95554-2015",
+      "openingHours": {
+        "quinta-feira": "11:00–00:00",
+        "sexta-feira": "11:00–00:00",
+        "sábado": "11:00–00:00",
+        "domingo": "11:00–00:00",
+        "segunda-feira": "Fechado",
+        "terça-feira": "11:00–00:00",
+        "quarta-feira": "11:00–00:00"
+      },
+      "thumbnailUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLebAJWg3CHviacSZnLsj5gaZb6gtxXhncMIPnDmPgaN3QEc5ZqQv3Lg6OepsP7X-bbK9EZFDAlQsg_zTRVihxLXmDjQlVN64v1dn5K6_oRScT4HgxFQrj5hzh1LrQCYpIP3HpjS7Q",
+      "cid": "13354874387710818818",
+      "fid": "0x94ce6539c4a9a167:0xb9560b7f9b773a02",
+      "placeId": "ChIJZ6GpxDllzpQRAjp3m38LVrk",
+      "distance_meters": 498
+    },
+    {
+      "position": 9,
+      "title": "pizzaria E Esfiharia Dom Angel",
+      "address": "R. Cotinga, 280 - Vila Nova Curuca, São Paulo - SP, 08032-500, Brasil",
+      "latitude": -23.521339299999998,
+      "longitude": -46.4225809,
+      "rating": 5,
+      "ratingCount": 23,
+      "type": "Delivery de Pizza",
+      "types": [
+        "Delivery de Pizza"
+      ],
+      "website": "https://wa.me/5511977305946",
+      "phoneNumber": "+55 11 97730-5946",
+      "openingHours": {
+        "quinta-feira": "17:20–00:00",
+        "sexta-feira": "17:30–23:49",
+        "sábado": "17:30–00:00",
+        "domingo": "17:30–23:00",
+        "segunda-feira": "Fechado",
+        "terça-feira": "17:30–00:00",
+        "quarta-feira": "17:30–00:00"
+      },
+      "thumbnailUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLe3DJK8B4zZBuj62KtUIxahIWo3pwEvdhLAdCIvl0GxNYaDd0ylrlT9U6pxDzE3T-2ttV5qW4wnNP-hk6jYnF3GiAoi5X0QiKD6540Uh_r9TSfS1qcAAdFfmUsWimYwfxpbGlo",
+      "cid": "17670027429260542006",
+      "fid": "0x235f6cbd9884f71b:0xf5388c53bc7bc036",
+      "placeId": "ChIJG_eEmL1sXyMRNsB7vFOMOPU",
+      "distance_meters": 525
+    },
+    {
+      "position": 15,
+      "title": "Matteo Pizzaria Delivery",
+      "address": "R. José Vieira Guimarães, 29 - Guaianases, São Paulo - SP, 08430-000, Brasil",
+      "latitude": -23.523718199999998,
+      "longitude": -46.430107199999995,
+      "rating": 4.7,
+      "ratingCount": 2010,
+      "type": "Pizzaria",
+      "types": [
+        "Pizzaria"
+      ],
+      "website": "http://matteopizzariadelivery.wabiz.delivery/",
+      "phoneNumber": "+55 11 2016-2828",
+      "description": "Local simples de entrega e retirada de pizzas e esfirras com coberturas doces e salgadas.",
+      "openingHours": {
+        "quinta-feira": "18:00–00:00",
+        "sexta-feira": "18:00–01:00",
+        "sábado": "18:00–01:00",
+        "domingo": "18:00–00:00",
+        "segunda-feira": "18:00–00:00",
+        "terça-feira": "18:00–00:00",
+        "quarta-feira": "18:00–00:00"
+      },
+      "thumbnailUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLd8h7QIna7NYY807LkRjy4YKJXkNvL52IjNGsvIOPnNuyN8xVg4tCZLvd2J0U_G6pb_44ZVaVS3I9JqaMxdkP68oeUgsbQDrqyCc4lUoC4YcWpS7R-ECmcF7q7fzKGRBK51PCyR",
+      "cid": "9449320607829068354",
+      "fid": "0x94ce65bfad0b8451:0x8322bb07366e0a42",
+      "placeId": "ChIJUYQLrb9lzpQRQgpuNge7IoM",
+      "distance_meters": 622
+    },
+    {
+      "position": 6,
+      "title": "Padaria Estrela do Lageado",
+      "address": "Av. Nordestina, 5279 - Parque Guaianazes, São Paulo - SP, 08431-410, Brasil",
+      "latitude": -23.523827,
+      "longitude": -46.4180579,
+      "rating": 4.6,
+      "ratingCount": 11431,
+      "type": "Pizzaria",
+      "types": [
+        "Pizzaria",
+        "Restaurante de café da manhã",
+        "Padaria"
+      ],
+      "website": "https://linktr.ee/EstreladoLageado_",
+      "description": "Em ambiente climatizado e familiar, a casa oferece pães, doces, bolos e cafés, além de sanduíches e almoço.",
+      "openingHours": {
+        "quinta-feira": "06:00–22:00",
+        "sexta-feira": "06:00–22:00",
+        "sábado": "06:00–22:00",
+        "domingo": "06:30–14:00",
+        "segunda-feira": "06:00–22:00",
+        "terça-feira": "06:00–22:00",
+        "quarta-feira": "06:00–22:00"
+      },
+      "thumbnailUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLfAAxoHGCe-t4HSUZnwIp__TtBp5MGs-iOvW9GOVSGS5kj7QwA8AOr8neWResMfARwM3qYyvhTa7y8VYzH9PQ-T-ud4RwtCZsfyQMfDkGmFaeP-of40K00JnNjigse7bfJwzu4cqA",
+      "cid": "2516594190558602854",
+      "fid": "0x94ce646cf0145ca9:0x22ecbd15340ea666",
+      "placeId": "ChIJqVwU8GxkzpQRZqYONBW97CI",
+      "distance_meters": 683
+    },
+    {
+      "position": 1,
+      "title": "Pizzaria RICCOS",
+      "address": "R. Damásio Pinto, 1832 - Parada XV de Novembro, São Paulo - SP, 08246-058, Brasil",
+      "latitude": -23.529838899999998,
+      "longitude": -46.431683899999996,
+      "rating": 4.8,
+      "ratingCount": 45,
+      "type": "Pizzaria",
+      "types": [
+        "Pizzaria"
+      ],
+      "website": "https://pizzariariccos.mandarpedido.com/whatsapp",
+      "phoneNumber": "+55 11 2295-6644",
+      "openingHours": {
+        "quinta-feira": "18:00–00:00",
+        "sexta-feira": "18:00–00:00",
+        "sábado": "18:00–00:00",
+        "domingo": "18:00–00:00",
+        "segunda-feira": "Fechado",
+        "terça-feira": "18:00–00:00",
+        "quarta-feira": "18:00–00:00"
+      },
+      "thumbnailUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLeVILI2XabeYC4nF8fsLg12ICvetZTpo5aoER32rty7xlHUxAz43ZRsiib8ep5qjPfQEscUPDiszlAM6EdzQP-xQoqZy77MqXzWxGlxTcNdqrCv849jJUdhdG2C-21p9de19ON8kJqrNkPz",
+      "cid": "4216241493898397550",
+      "fid": "0x94ce65002b2cc1c9:0x3a83194cd313876e",
+      "placeId": "ChIJycEsKwBlzpQRbocT00wZgzo",
+      "distance_meters": 869
+    },
+    {
+      "position": 10,
+      "title": "Pizzaria Irmãos Coimbra ||",
+      "address": "Rua Manuel Soares Madureira, 353 - Jardim Irene, São Paulo - SP, 08431-790, Brasil",
+      "latitude": -23.5319593,
+      "longitude": -46.4186136,
+      "rating": 4.8,
+      "ratingCount": 35,
+      "type": "Pizzaria",
+      "types": [
+        "Pizzaria"
+      ],
+      "phoneNumber": "+55 11 91280-0105",
+      "openingHours": {
+        "quinta-feira": "18:00–23:00",
+        "sexta-feira": "18:00–23:00",
+        "sábado": "18:00–23:00",
+        "domingo": "18:00–23:00",
+        "segunda-feira": "Fechado",
+        "terça-feira": "18:00–23:00",
+        "quarta-feira": "18:00–23:00"
+      },
+      "thumbnailUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLdq9RshxtjF6zwIdh5gelNnHt-C35WgCYIPvn4_RQ7TEJforAP4NtIHcD6C_SVkHdz5Gl0ea6r7Vh0GmH26IVXqbcr-4F9QglCdPRgW9gTycARbaJZNQjHPKBOatxTXpMQlRUcN",
+      "cid": "7392666581737529195",
+      "fid": "0x94ce64405d431e51:0x669807168b5ddf6b",
+      "placeId": "ChIJUR5DXUBkzpQRa99dixYHmGY",
+      "distance_meters": 910
+    },
+    {
+      "position": 14,
+      "title": "Melo Pizzaria",
+      "address": "R. Paravisco, 564 - Vila Progresso (Zona Leste), São Paulo - SP, 08240-660, Brasil",
+      "latitude": -23.5211298,
+      "longitude": -46.4361512,
+      "rating": 4.4,
+      "ratingCount": 312,
+      "type": "Pizzaria",
+      "types": [
+        "Pizzaria"
+      ],
+      "phoneNumber": "+55 11 2057-5915",
+      "openingHours": {
+        "quinta-feira": "18:00–23:30",
+        "sexta-feira": "18:00–23:30",
+        "sábado": "18:30–01:00",
+        "domingo": "18:00–23:45",
+        "segunda-feira": "18:00–23:30",
+        "terça-feira": "18:00–23:30",
+        "quarta-feira": "18:00–23:30"
+      },
+      "thumbnailUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLeVZczNcljLzDcbLLZp4XImU41EA2GGv8Cg4db8xCno6z2__fm_vLOzQfOQY2_BoPgyUGtjkGVKYKeheyzVKYWkulj5T__cmOQrixc4rdS5DpNGDrwgk3Hz7Vo1kC8fGSLd3kNw1g",
+      "cid": "11233891360990782962",
+      "fid": "0x94ce64016cf46051:0x9be6ccac512f65f2",
+      "placeId": "ChIJUWD0bAFkzpQR8mUvUazM5ps",
+      "distance_meters": 1301
+    },
+    {
+      "position": 19,
+      "title": "Pizzaria família Timbaúba",
+      "address": "R. Chá dos Jesuítas, 504 - Cidade São Miguel, São Paulo - SP, 08240-590, Brasil",
+      "latitude": -23.5241886,
+      "longitude": -46.437069,
+      "rating": 5,
+      "ratingCount": 2,
+      "type": "Restaurante",
+      "types": [
+        "Restaurante"
+      ],
+      "phoneNumber": "+55 11 2053-5859",
+      "openingHours": {
+        "quinta-feira": "18:00–00:00",
+        "sexta-feira": "18:00–00:00",
+        "sábado": "18:00–01:00",
+        "domingo": "18:00–00:00",
+        "segunda-feira": "Fechado",
+        "terça-feira": "Fechado",
+        "quarta-feira": "18:00–00:00"
+      },
+      "thumbnailUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLevd__PWxhYAB1b9Kd-_61gCrS6QOIo61-I8GkGgKWVRdH2YRxKHeSJVycqWr9FPAPNHHdsoERfbOZ8r_dk2zSavE7l4j99kSXb1Z7qWlo99oQRKFTt_poV9vJI0SZ9S7YVTgRpOw",
+      "cid": "11539675245660956298",
+      "fid": "0x94ce6580d0da89bd:0xa025297f00fd668a",
+      "placeId": "ChIJvYna0IBlzpQRimb9AH8pJaA",
+      "distance_meters": 1301
+    },
+    {
+      "position": 11,
+      "title": "Pizzaria Monalizza",
+      "address": "R. Suzana de Melo, 493 - Vila Progresso (Zona Leste), São Paulo - SP, 08245-160, Brasil",
+      "latitude": -23.5201484,
+      "longitude": -46.4364081,
+      "rating": 4.5,
+      "ratingCount": 89,
+      "type": "Pizzaria",
+      "types": [
+        "Pizzaria"
+      ],
+      "website": "https://pizzariamonaliza.menuintegrado.com.br/",
+      "phoneNumber": "+55 11 91009-6222",
+      "openingHours": {
+        "quinta-feira": "18:00–00:00",
+        "sexta-feira": "18:00–00:00",
+        "sábado": "18:00–00:00",
+        "domingo": "18:00–00:00",
+        "segunda-feira": "18:00–00:00",
+        "terça-feira": "18:00–00:00",
+        "quarta-feira": "18:00–00:00"
+      },
+      "thumbnailUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLdiar2oUEKyv0AaOAxnEHyk-z6EWKe4cbKQOgPNbB1GuGKMMNmCOgD7WaoxQz9fBR7uks7X7D8TRc_2DQL9RWDtZWTDl_cwZUKYN4w1b3Ki7rLXl4Zlg06sNk7D8bFcdFRs5QADTw",
+      "cid": "831571538526261470",
+      "fid": "0x94ce6401036dd58f:0xb8a55e88f2ed0de",
+      "placeId": "ChIJj9VtAwFkzpQR3tAuj-hVigs",
+      "distance_meters": 1372
+    },
+    {
+      "position": 12,
+      "title": "Pizzaria Vila Real",
+      "address": "R. Suzana de Melo, 477 - Vila Progresso (Zona Leste), São Paulo - SP, 08245-160, Brasil",
+      "latitude": -23.5201457,
+      "longitude": -46.4365367,
+      "rating": 4.5,
+      "ratingCount": 104,
+      "type": "Pizzaria",
+      "types": [
+        "Pizzaria",
+        "Delivery de Pizza",
+        "Restaurante"
+      ],
+      "phoneNumber": "+55 11 2053-5068",
+      "openingHours": {
+        "quinta-feira": "18:00–00:00",
+        "sexta-feira": "18:00–00:00",
+        "sábado": "18:00–00:00",
+        "domingo": "18:00–00:00",
+        "segunda-feira": "Fechado",
+        "terça-feira": "18:00–00:00",
+        "quarta-feira": "18:00–00:00"
+      },
+      "thumbnailUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLezCaHs__jgjF5ej8h8HrkFyLCiRQJ2XuAcdnzVT4ZFHc6Qw0t4DLMezTt0V9ZOo92BuI33qA1WE_TewDRMjjs5wG3061Ht7L18DjPrhiiusFxYCJCICGThtNsbry7LaZSv5b_I",
+      "cid": "1031299705525826912",
+      "fid": "0x94ce6401017bfa75:0xe4fe99e3cd4f560",
+      "placeId": "ChIJdfp7AQFkzpQRYPXUPJ7pTw4",
+      "distance_meters": 1383
+    },
+    {
+      "position": 13,
+      "title": "Família e Pizza",
+      "address": "R. Padre Antão Jorge, 376 - Vila Progresso (Zona Leste), São Paulo - SP, 08245-100, Brasil",
+      "latitude": -23.5215687,
+      "longitude": -46.4391605,
+      "rating": 4.3,
+      "ratingCount": 73,
+      "type": "Pizzaria",
+      "types": [
+        "Pizzaria"
+      ],
+      "phoneNumber": "+55 11 2054-4996",
+      "openingHours": {
+        "quinta-feira": "18:00–00:00",
+        "sexta-feira": "18:00–00:00",
+        "sábado": "18:00–00:00",
+        "domingo": "18:00–00:00",
+        "segunda-feira": "18:00–00:00",
+        "terça-feira": "18:00–00:00",
+        "quarta-feira": "18:00–00:00"
+      },
+      "thumbnailUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLdSCuPKJmYSb-ZIwBuJ0CQOHZOvKGf1I1wvPcQWnCFz9UkVa42uR7S5Brh9_d9cUMPAXH_Iq5t7-anT4jIqoVcrT1eXgNsctmBl1fwHWT7RsG_gAZfLALg5P0_T08r76ngk9hY",
+      "cid": "11606249281097982090",
+      "fid": "0x94ce6401d84b19b5:0xa111ae3a867a608a",
+      "placeId": "ChIJtRlL2AFkzpQRimB6hjquEaE",
+      "distance_meters": 1573
+    },
+    {
+      "position": 3,
+      "title": "Pizzaria Mano Barba",
+      "address": "Rua Sāo José de Mossamedes, 186 - Núcleo Lageado, São Paulo - SP, 08440-540, Brasil",
+      "latitude": -23.5320839,
+      "longitude": -46.409309199999996,
+      "rating": 4.8,
+      "ratingCount": 89,
+      "type": "Delivery de Pizza",
+      "types": [
+        "Delivery de Pizza"
+      ],
+      "phoneNumber": "+55 11 91725-0534",
+      "openingHours": {
+        "quinta-feira": "18:00–23:45",
+        "sexta-feira": "18:00–00:15",
+        "sábado": "18:00–00:45",
+        "domingo": "18:00–23:45",
+        "segunda-feira": "18:00–23:45",
+        "terça-feira": "18:00–23:45",
+        "quarta-feira": "18:00–23:45"
+      },
+      "thumbnailUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLei3-jq29euVhcj0i0VxEzUQsKjshYfc2sWQgspXJJizAZz4oP7VD05rogiaza4CKWHJTO1WuiZ5KFfwPIY990Uh7pUbAI2mBAGcGTHTMeMUvzA_Y6JWAFmuPxxpnHF7U1qgprJz8cD1B2E",
+      "cid": "2735557513373849152",
+      "fid": "0x94ce658be80e866d:0x25f6a710974c9640",
+      "placeId": "ChIJbYYO6ItlzpQRQJZMlxCn9iU",
+      "distance_meters": 1694
+    },
+    {
+      "position": 4,
+      "title": "Pizzaria Qual é seu desejo?",
+      "address": "Rua Dr. José Gravonski, 801 - Jardim Robru, São Paulo - SP, 08441-000, Brasil",
+      "latitude": -23.5315413,
+      "longitude": -46.402986999999996,
+      "rating": 5,
+      "ratingCount": 20,
+      "type": "Pizzaria",
+      "types": [
+        "Pizzaria"
+      ],
+      "phoneNumber": "+55 11 98799-3307",
+      "openingHours": {
+        "quinta-feira": "18:00–23:30",
+        "sexta-feira": "18:00–01:00",
+        "sábado": "18:00–01:00",
+        "domingo": "18:00–01:00",
+        "segunda-feira": "Fechado",
+        "terça-feira": "18:00–23:30",
+        "quarta-feira": "18:00–23:30"
+      },
+      "thumbnailUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLe53GoEhIIHQzQvLnebx9p_418e3Q8tLX85ywwvzIl9vd5dh0RmmRBtj836dVoRMwe5hpZYqvdRThJOmYqJtu0iwnD_bA9FsicPSBa4DIa1ll3LcmuSwJUPgOaZVIG4GHz-zFpKR1xSyOUN",
+      "cid": "5587539877538471446",
+      "fid": "0x94ce65af251e1fd5:0x4d8aedea21029e16",
+      "placeId": "ChIJ1R8eJa9lzpQRFp4CIertik0",
+      "distance_meters": 2278
+    },
+    {
+      "position": 16,
+      "title": "Pizzaria São Jorge",
+      "address": "Estrada Dom João Nery, 4154 - Vila Lourdes, São Paulo - SP, 08452-340, Brasil",
+      "latitude": -23.527834,
+      "longitude": -46.3972401,
+      "rating": 4.3,
+      "ratingCount": 120,
+      "type": "Pizzaria",
+      "types": [
+        "Pizzaria",
+        "Restaurante"
+      ],
+      "phoneNumber": "+55 11 97736-8875",
+      "openingHours": {
+        "quinta-feira": "08:00–00:00",
+        "sexta-feira": "18:00–00:00",
+        "sábado": "18:00–00:00",
+        "domingo": "18:00–00:00",
+        "segunda-feira": "Fechado",
+        "terça-feira": "18:00–00:00",
+        "quarta-feira": "18:00–00:00"
+      },
+      "thumbnailUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLftKLcs-v8f2z9veGxe8rid1gqV7mpMWRNamfXayMPTwL5m_ththavT2DQCtmp7VhZh3EDlOCvy6ySuyaW8qJQrS1l3C9myZGOVsikmtUfm99TlyFdxqthqV_kIRmwDlE7Tx1VQYA",
+      "cid": "11976099482303332490",
+      "fid": "0x94ce64f6a1d1eb93:0xa633a706ed6e008a",
+      "placeId": "ChIJk-vRofZkzpQRigBu7QanM6Y",
+      "distance_meters": 2781
+    },
+    {
+      "position": 17,
+      "title": "Pizzaria E Esfiharia La Castro",
+      "address": "Vila Luzimar, São Paulo - SP, 08141-060, Brasil",
+      "latitude": -23.5195452,
+      "longitude": -46.3974542,
+      "rating": 5,
+      "ratingCount": 1,
+      "type": "Pizzaria",
+      "types": [
+        "Pizzaria"
+      ],
+      "openingHours": {
+        "quinta-feira": "18:00–23:00",
+        "sexta-feira": "18:00–23:00",
+        "sábado": "18:00–23:00",
+        "domingo": "18:00–23:00",
+        "segunda-feira": "Fechado",
+        "terça-feira": "18:00–23:00",
+        "quarta-feira": "18:00–23:00"
+      },
+      "thumbnailUrl": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=0iY5w_ZccNdNKLtX88NQUA&cb_client=search.gws-prod.grass&w=80&h=92&yaw=289.58798&pitch=0&thumbfov=100",
+      "cid": "16894682133838841244",
+      "fid": "0x94ce648bbf0fea0d:0xea75f7e38c9a459c",
+      "placeId": "ChIJDeoPv4tkzpQRnEWajOP3deo",
+      "distance_meters": 2835
+    },
+    {
+      "position": 18,
+      "title": "Pizzaria Plaza em Jardim Renata - Ferraz de Vasconcelos",
+      "address": "Estrada do Cupi, 111 - Jardim Renata, Ferraz de Vasconcelos - SP, 08537-050, Brasil",
+      "latitude": -23.531804599999997,
+      "longitude": -46.392187299999996,
+      "rating": 5,
+      "ratingCount": 5,
+      "type": "Pizzaria",
+      "types": [
+        "Pizzaria",
+        "Delivery",
+        "Delivery de Pizza"
+      ],
+      "phoneNumber": "+55 11 99579-8333",
+      "openingHours": {
+        "quinta-feira": "18:00–23:00",
+        "sexta-feira": "18:00–00:00",
+        "sábado": "18:00–00:00",
+        "domingo": "18:00–23:00",
+        "segunda-feira": "Fechado",
+        "terça-feira": "18:00–23:00",
+        "quarta-feira": "18:00–23:00"
+      },
+      "thumbnailUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLcv5jR7ONDrF_6EMG8vnIiYf-Ytx3_XjFCw0mIHeBX_3pq_0O8ZCYzL8lsm51OgNgrlhJhukDVv_KkKnJBhxU2OA1ccpWNaJZeV5iUPG8j9I6sNVbpIRAvwijMf_rYTItA8HUn6DuL7u4J-",
+      "cid": "15899021045356616941",
+      "fid": "0x94ce6586b45dfdd1:0xdca4ab6774f0dced",
+      "placeId": "ChIJ0f1dtIZlzpQR7dzwdGerpNw",
+      "distance_meters": 3355
+    },
+    {
+      "position": 7,
+      "title": "Pizzaria Mixxx",
+      "address": "R. Jerônimo Pedroso Barros, 160 - Jardim Lourdes, São Paulo - SP, 08452-420, Brasil",
+      "latitude": -23.5243652,
+      "longitude": -46.3911448,
+      "rating": 5,
+      "ratingCount": 12,
+      "type": "Pizzaria",
+      "types": [
+        "Pizzaria"
+      ],
+      "website": "https://pedido.brendi.com.br/pizzaria-mixxx-jardim-lourdes",
+      "phoneNumber": "+55 11 99332-3841",
+      "openingHours": {
+        "quinta-feira": "18:00–23:30",
+        "sexta-feira": "18:00–23:55",
+        "sábado": "18:00–23:55",
+        "domingo": "18:00–23:55",
+        "segunda-feira": "Fechado",
+        "terça-feira": "18:00–23:30",
+        "quarta-feira": "18:00–23:30"
+      },
+      "thumbnailUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLfzqCq4Ih--uTKL1TSWBKhIHN_gTmiR-iBbnfc1bXh5GyTFHymCVTGEWdS6gm-LXX-xWrIkhoNnH4ie-YJOBcVJZ52qhDIT-O6p4R2cbm-bWx7EpRtRm4rtK5RMQWacnIiDwXolu9WTdiTF",
+      "cid": "1849356294530598336",
+      "fid": "0x94ce659c36e9e299:0x19aa3bc066a105c0",
+      "placeId": "ChIJmeLpNpxlzpQRwAWhZsA7qhk",
+      "distance_meters": 3396
+    },
+    {
+      "position": 8,
+      "title": "pizzaria central lurdes",
+      "address": "R. João Lima da Silva, 93 - Vila Lourdes, São Paulo - SP, 08452-650, Brasil",
+      "latitude": -23.5267211,
+      "longitude": -46.390661099999996,
+      "rating": 5,
+      "ratingCount": 1,
+      "type": "Pizzaria",
+      "types": [
+        "Pizzaria"
+      ],
+      "openingHours": {
+        "quinta-feira": "18:00–00:30",
+        "sexta-feira": "18:00–00:30",
+        "sábado": "18:00–00:30",
+        "domingo": "18:00–00:30",
+        "segunda-feira": "Fechado",
+        "terça-feira": "18:00–00:30",
+        "quarta-feira": "18:00–00:30"
+      },
+      "thumbnailUrl": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=dVM5RTAuuMghddNxtLNv7Q&cb_client=search.gws-prod.grass&w=80&h=92&yaw=327.44876&pitch=0&thumbfov=100",
+      "cid": "5628009301514725413",
+      "fid": "0x94ce650173250915:0x4e1ab4a429612825",
+      "placeId": "ChIJFQklcwFlzpQRJShhKaS0Gk4",
+      "distance_meters": 3444
+    }
+  ],
+  "Lojas e Serviços": [
+    {
+      "position": 16,
+      "title": "LOJA NOVIDADES",
+      "address": "Av. Nordestina, 5283 - Parque Guaianazes, São Paulo - SP, 08431-410, Brasil",
+      "latitude": -23.5241245,
+      "longitude": -46.4181771,
+      "rating": 4.2,
+      "ratingCount": 5,
+      "thumbnailUrl": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=59bpnK1Nj0YHt2s0wGQP-A&cb_client=search.gws-prod.grass&w=80&h=92&yaw=89.85951&pitch=0&thumbfov=100",
+      "cid": "1942834243497754766",
+      "fid": "0x94ce646cf2445429:0x1af655736d26008e",
+      "placeId": "ChIJKVRE8mxkzpQRjgAmbXNV9ho",
+      "distance_meters": 662
+    },
+    {
+      "position": 1,
+      "title": "Okinalar Nordestina",
+      "address": "Av. Nordestina, 5609 - Lajeado, São Paulo - SP, 08431-410, Brasil",
+      "latitude": -23.526855599999998,
+      "longitude": -46.4178564,
+      "rating": 4.2,
+      "ratingCount": 587,
+      "type": "Loja de materiais de construção",
+      "types": [
+        "Loja de materiais de construção",
+        "Loja de Material Hidráulico",
+        "Fornecedora de parafusos",
+        "Loja de ferragens",
+        "Loja de ferramentas"
+      ],
+      "phoneNumber": "+55 11 2589-4263",
+      "openingHours": {
+        "quinta-feira": "09:00–18:00",
+        "sexta-feira": "09:00–18:00",
+        "sábado": "09:00–18:00",
+        "domingo": "09:00–13:30",
+        "segunda-feira": "09:00–18:00",
+        "terça-feira": "09:00–18:00",
+        "quarta-feira": "09:00–18:00"
+      },
+      "thumbnailUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLfysmPVYmDUUkL_B-A9cM9H80MUk7N4anVcYs3VLOUa5krg-0lB0N9E6Yd7uPFx4lRtr9Y-DX9wQcYitzspqWsOV0IXszpHHF_gRGZt55PQA5pRVdE1asF0uM6rsi2fonpmEjsA",
+      "cid": "8763210829060197831",
+      "fid": "0x94ce646b096318f3:0x799d2dd1cdfd4dc7",
+      "placeId": "ChIJ8xhjCWtkzpQRx039zdEtnXk",
+      "distance_meters": 681
+    },
+    {
+      "position": 12,
+      "title": "Diamante Rosa Loja",
+      "address": "Av. Coroa de Frade, 293 - Jardim Ubirajara (Zona Leste), São Paulo - SP, 08245-470, Brasil",
+      "latitude": -23.524043199999998,
+      "longitude": -46.431203,
+      "rating": 4.8,
+      "ratingCount": 26,
+      "type": "Loja de Roupa",
+      "types": [
+        "Loja de Roupa"
+      ],
+      "website": "https://www.instagram.com/diamanterosa_modas/",
+      "phoneNumber": "+55 11 98130-0599",
+      "openingHours": {
+        "quinta-feira": "11:00–19:00",
+        "sexta-feira": "11:00–19:00",
+        "sábado": "11:00–19:00",
+        "domingo": "11:00–15:00",
+        "segunda-feira": "11:00–19:00",
+        "terça-feira": "11:00–19:00",
+        "quarta-feira": "11:00–19:00"
+      },
+      "thumbnailUrl": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=Ju-W_e8b0ycudS6bKJqyLA&cb_client=search.gws-prod.grass&w=80&h=92&yaw=36.715622&pitch=0&thumbfov=100",
+      "cid": "9627893983053386614",
+      "fid": "0x94ce64053d896605:0x859d26911b049376",
+      "placeId": "ChIJBWaJPQVkzpQRdpMEG5EmnYU",
+      "distance_meters": 717
+    },
+    {
+      "position": 20,
+      "title": "Loja do Brás",
+      "address": "R. Antônio Januário Ferraz, 310 - Jardim Etelvina, São Paulo - SP, 08431-740, Brasil",
+      "latitude": -23.5286981,
+      "longitude": -46.4177882,
+      "rating": 4.7,
+      "ratingCount": 3,
+      "type": "Loja de Roupa",
+      "types": [
+        "Loja de Roupa"
+      ],
+      "phoneNumber": "+55 11 94104-1108",
+      "openingHours": {
+        "quinta-feira": "10:00–19:00",
+        "sexta-feira": "10:00–19:00",
+        "sábado": "10:00–19:00",
+        "domingo": "Fechado",
+        "segunda-feira": "10:00–19:00",
+        "terça-feira": "10:00–19:00",
+        "quarta-feira": "10:00–19:00"
+      },
+      "thumbnailUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLcOZVPg_AZvi3JZrCiY8OzFZIM2FWJ2D-srx0VK8U9qPXQZjCQjcKXpQFEB22UthC9ybRcQwPS1J_Bog7U7tYWC6m-nnE--cYQnEbfe0671Dfx5GP93l81KKUmq2YUxVU_WaDHV",
+      "cid": "13843244264729209648",
+      "fid": "0x94ce65cc06442e07:0xc01d15506a25eb30",
+      "placeId": "ChIJBy5EBsxlzpQRMOslalAVHcA",
+      "distance_meters": 752
+    },
+    {
+      "position": 15,
+      "title": "Av. Nordestina, 6200 - Lj B - Guaianases",
+      "address": "Av. Nordestina, 6200 - Guaianases, São Paulo - SP, 08431-585, Brasil",
+      "latitude": -23.5311786,
+      "longitude": -46.415602299999996,
+      "thumbnailUrl": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=E-Q0OyAiPesd0dmu7L5ARw&cb_client=search.gws-prod.grass&w=80&h=92&yaw=267.7078&pitch=0&thumbfov=100",
+      "cid": "8809994888558138412",
+      "fid": "0x94ce644185e0cabb:0x7a4363ac7d83d42c",
+      "placeId": "ChIJu8rghUFkzpQRLNSDfaxjQ3o",
+      "distance_meters": 1083
+    },
+    {
+      "position": 11,
+      "title": "Glamour Cosméticos - Loja 1",
+      "address": "Rua Paulino Pacheco de Mello, 346 - Jardim Robru, São Paulo - SP, 08150-320, Brasil",
+      "latitude": -23.521442399999998,
+      "longitude": -46.4136361,
+      "rating": 4.5,
+      "ratingCount": 73,
+      "type": "Loja de cosmético",
+      "types": [
+        "Loja de cosmético"
+      ],
+      "website": "https://www.instagram.com/glamour_cosmeti",
+      "phoneNumber": "+55 11 94351-9491",
+      "openingHours": {
+        "quinta-feira": "10:00–20:30",
+        "sexta-feira": "10:00–20:30",
+        "sábado": "10:00–20:30",
+        "domingo": "10:00–15:30",
+        "segunda-feira": "10:00–20:30",
+        "terça-feira": "10:00–20:30",
+        "quarta-feira": "10:00–20:30"
+      },
+      "thumbnailUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLdwvMigwxw1AThJ7kh-SPlcMOAy7PN7ayf1t-3TK_2cEgsFP5Lh7Xra6bdExEsMyIX-_YGyFDhkWHK5JdkW98Fh_imzSytGrf83H8W1L_FqeXv_Af2apQCvP-ltd88nQGM2HFz3",
+      "cid": "15705163288039170650",
+      "fid": "0x94ce646ec8023a81:0xd9f3f2cd0b14a25a",
+      "placeId": "ChIJgToCyG5kzpQRWqIUC83y89k",
+      "distance_meters": 1200
+    },
+    {
+      "position": 14,
+      "title": "Lojão do Robru",
+      "address": "R. José Maria Alves de Deus, 1020 - Jardim Robru, São Paulo - SP, 08150-290, Brasil",
+      "latitude": -23.521047499999998,
+      "longitude": -46.4128207,
+      "rating": 4.7,
+      "ratingCount": 7,
+      "type": "Loja de artigos domésticos",
+      "types": [
+        "Loja de artigos domésticos"
+      ],
+      "phoneNumber": "+55 11 2511-9786",
+      "openingHours": {
+        "quinta-feira": "08:30–20:30",
+        "sexta-feira": "08:30–20:30",
+        "sábado": "08:30–20:30",
+        "domingo": "08:30–15:00",
+        "segunda-feira": "08:30–20:30",
+        "terça-feira": "08:30–20:30",
+        "quarta-feira": "08:30–20:30"
+      },
+      "thumbnailUrl": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=QcqxWjSwlVdZpVq5E5-2ww&cb_client=search.gws-prod.grass&w=80&h=92&yaw=359.76154&pitch=4.0248575&thumbfov=100",
+      "cid": "13058271184626101914",
+      "fid": "0x94ce646e54883717:0xb5384c74ec5bae9a",
+      "placeId": "ChIJFzeIVG5kzpQRmq5b7HRMOLU",
+      "distance_meters": 1293
+    },
+    {
+      "position": 4,
+      "title": "LOJAS Caetano",
+      "address": "Av. Monsenhor Agnelo, 373 - Vila Progresso (Zona Leste), São Paulo - SP, 08240-670, Brasil",
+      "latitude": -23.5196139,
+      "longitude": -46.4355323,
+      "rating": 5,
+      "ratingCount": 4,
+      "type": "Loja de eletrônicos",
+      "types": [
+        "Loja de eletrônicos"
+      ],
+      "phoneNumber": "+55 11 97638-8058",
+      "openingHours": {
+        "quinta-feira": "09:00–19:00",
+        "sexta-feira": "09:00–19:00",
+        "sábado": "09:00–19:00",
+        "domingo": "Fechado",
+        "segunda-feira": "09:00–19:00",
+        "terça-feira": "Fechado",
+        "quarta-feira": "09:00–19:00"
+      },
+      "thumbnailUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLc8wFvpuHGNK6qNo5xWUj60DELVXaYaYOCAG2IXXqYpaLWvpRWSPavO8lk5K1rQJ1uXdPIRa7PwAAkjVwa789dOCyYohnur536clr25Bli0ooqS3TfElwTUH3EYnCnPwxS2z1pj51cbC2lf",
+      "cid": "5511024884929167013",
+      "fid": "0x94ce6597c652cef1:0x4c7b17ef268a7ea5",
+      "placeId": "ChIJ8c5SxpdlzpQRpX6KJu8Xe0w",
+      "distance_meters": 1322
+    },
+    {
+      "position": 2,
+      "title": "Loja Marabraz",
+      "address": "Rua Dr. José Gravonski, 64 - Lajeado, São Paulo - SP, 08441-000, Brasil",
+      "latitude": -23.527627199999998,
+      "longitude": -46.4086843,
+      "rating": 3.7,
+      "ratingCount": 63,
+      "type": "Loja de móveis",
+      "types": [
+        "Loja de móveis"
+      ],
+      "website": "https://www.marabraz.com.br/",
+      "phoneNumber": "+55 300 777 7001",
+      "openingHours": {
+        "quinta-feira": "09:00–20:00",
+        "sexta-feira": "09:00–20:00",
+        "sábado": "09:00–20:00",
+        "domingo": "09:00–16:00",
+        "segunda-feira": "09:00–20:00",
+        "terça-feira": "09:00–20:00",
+        "quarta-feira": "09:00–20:00"
+      },
+      "thumbnailUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLf3DivowbXkSLNCPhlqcuydznpF9ndIMtrwH_yRGdnJG9wKZWBN1_HqWt2Wy1UqwzAHbRtxnmfToA4PtEqtaYJ0Wtr8ipnEuRc2IA6lnmMhrHAoLy5CKghaSAODGZZqvse8cP4",
+      "cid": "8444215981191643886",
+      "fid": "0x94ce64f81e197607:0x752fe1b20d9ac2ee",
+      "placeId": "ChIJB3YZHvhkzpQR7sKaDbLhL3U",
+      "distance_meters": 1618
+    },
+    {
+      "position": 3,
+      "title": "Compras & Conexões",
+      "address": "Rua Sāo José de Mossamedes, 644 - Nucleo Lajeado, São Paulo - SP, 08440-540, Brasil",
+      "latitude": -23.529029899999998,
+      "longitude": -46.4081766,
+      "type": "Loja de variedades",
+      "types": [
+        "Loja de variedades"
+      ],
+      "phoneNumber": "+55 11 97828-0342",
+      "openingHours": {
+        "quinta-feira": "Atendimento 24 horas",
+        "sexta-feira": "Atendimento 24 horas",
+        "sábado": "Atendimento 24 horas",
+        "domingo": "Atendimento 24 horas",
+        "segunda-feira": "Atendimento 24 horas",
+        "terça-feira": "Atendimento 24 horas",
+        "quarta-feira": "Atendimento 24 horas"
+      },
+      "thumbnailUrl": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=vyxiKK9fG3_tn0Jo7yds_Q&cb_client=search.gws-prod.grass&w=80&h=92&yaw=177.00366&pitch=0&thumbfov=100",
+      "cid": "10446595190409067973",
+      "fid": "0x94ce6584924abd7b:0x90f9c2fa2ca2fdc5",
+      "placeId": "ChIJe71KkoRlzpQRxf2iLPrC-ZA",
+      "distance_meters": 1696
+    },
+    {
+      "position": 10,
+      "title": "Rua Dr. José Gravonski, 191 - Lj 1 - Núcleo Lageado",
+      "address": "Rua Dr. José Gravonski, 191 - Núcleo Lageado, São Paulo - SP, 08441-000, Brasil",
+      "latitude": -23.5282566,
+      "longitude": -46.407649299999996,
+      "thumbnailUrl": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=kt-MSYsYc4Zfth5CmnwGzg&cb_client=search.gws-prod.grass&w=80&h=92&yaw=215.33163&pitch=0&thumbfov=100",
+      "cid": "11735636925818154528",
+      "fid": "0x94ce645da5a2483d:0xa2dd5b9b20592e20",
+      "placeId": "ChIJPUiipV1kzpQRIC5ZIJtb3aI",
+      "distance_meters": 1733
+    },
+    {
+      "position": 6,
+      "title": "Lojado Jhow",
+      "address": "Rua Heráclito Sandano, 70 - Jardim Rosina, São Paulo - SP, 08151-170, Brasil",
+      "latitude": -23.5209251,
+      "longitude": -46.4003952,
+      "rating": 5,
+      "ratingCount": 8,
+      "type": "Loja de variedades",
+      "types": [
+        "Loja de variedades"
+      ],
+      "phoneNumber": "+55 11 94075-4830",
+      "openingHours": {
+        "quinta-feira": "09:00–17:00",
+        "sexta-feira": "09:00–17:00",
+        "sábado": "09:00–12:00",
+        "domingo": "Fechado",
+        "segunda-feira": "09:00–17:00",
+        "terça-feira": "09:00–17:00",
+        "quarta-feira": "09:00–17:00"
+      },
+      "thumbnailUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLfxuRF5IGb8NuKwjtAQ9EGEn0ptnyjRja4YuJGI0Bx78NNBtedHXlMAW6NwCUz04b7UJ1zOVmSaScKIMB2Ow50S6k55vF5VbU6uH_SLK2cVPfC2-T9pN52Ur1_LMBwLIpotG7t1",
+      "cid": "12052680521739180754",
+      "fid": "0x94ce65cc5a4d6737:0xa743b913a1889ad2",
+      "placeId": "ChIJN2dNWsxlzpQR0pqIoRO5Q6c",
+      "distance_meters": 2508
+    },
+    {
+      "position": 13,
+      "title": "Butiello 3 - Papelaria, Armarinhos e Presentes | São Paulo - SP",
+      "address": "Estrada Dom João Nery, 3295 - Jardim Bartira, São Paulo - SP, 08151-000, Brasil",
+      "latitude": -23.5211598,
+      "longitude": -46.3995037,
+      "rating": 4.3,
+      "ratingCount": 50,
+      "type": "Loja de produtos de papelaria",
+      "types": [
+        "Loja de produtos de papelaria",
+        "Loja de presentes",
+        "Papelaria",
+        "Loja de Brinquedos",
+        "Armarinho"
+      ],
+      "website": "https://www.butiello.com.br/",
+      "phoneNumber": "+55 11 91414-7800",
+      "openingHours": {
+        "quinta-feira": "09:00–19:00",
+        "sexta-feira": "09:00–18:00",
+        "sábado": "09:00–19:00",
+        "domingo": "09:00–14:00",
+        "segunda-feira": "09:00–19:00",
+        "terça-feira": "09:00–19:00",
+        "quarta-feira": "09:00–19:00"
+      },
+      "thumbnailUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLf7IX6iDjfm8Gx2ZsOe8-_TvknvQbMuazN6Bf3k1b11fiiBFUoAlPwa2OTXWnV3VtNgHg_-KcxTbvU3RKpOGoSUe8uZNHqyBgX5D1d-nQJnxNB7BrspuP_AOkMYKkeUztUUobcb",
+      "cid": "2013836897313477483",
+      "fid": "0x94ce650ca88c690f:0x1bf295fd03f1d36b",
+      "placeId": "ChIJD2mMqAxlzpQRa9PxA_2V8hs",
+      "distance_meters": 2591
+    },
+    {
+      "position": 7,
+      "title": "Loja Gabriel",
+      "address": "Estrada Dom João Nery, 3185 - Itaim Paulista, São Paulo - SP, 08151-000, Brasil",
+      "latitude": -23.5201672,
+      "longitude": -46.3995409,
+      "rating": 4,
+      "ratingCount": 4,
+      "type": "Loja de artigos domésticos",
+      "types": [
+        "Loja de artigos domésticos"
+      ],
+      "phoneNumber": "+55 11 98755-0881",
+      "openingHours": {
+        "quinta-feira": "08:00–20:00",
+        "sexta-feira": "08:00–20:00",
+        "sábado": "08:00–20:00",
+        "domingo": "08:00–14:00",
+        "segunda-feira": "Fechado",
+        "terça-feira": "08:00–20:00",
+        "quarta-feira": "08:00–20:00"
+      },
+      "thumbnailUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLfE8cpAkNpp2j43BWu9rUO2ELfr1mXkdiDAVHc9U7f5fgvC-ngYlHfcC4altPRG_GNg5DIm96CNQ7ik5JSkaCk7W9dGgOmwM_9aMiR7xHkVFvM_bewnx6BPQEJDDuDDSfyf_A7MY4xIGEgz",
+      "cid": "14756511179645836490",
+      "fid": "0x94ce648a3e2ed4ff:0xccc9a8bc0adedcca",
+      "placeId": "ChIJ_9QuPopkzpQRytzeCryoycw",
+      "distance_meters": 2612
+    },
+    {
+      "position": 17,
+      "title": "R. Basílio Salazar, 205 - Lj 3 - Jardim Nazareth",
+      "address": "R. Basílio Salazar, 205 - Jardim Nazareth, São Paulo - SP, 08142-460, Brasil",
+      "latitude": -23.5207443,
+      "longitude": -46.397729,
+      "thumbnailUrl": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=ZQ-DRB4Ywd9E8C8iqx2eDA&cb_client=search.gws-prod.grass&w=80&h=92&yaw=216.76868&pitch=0&thumbfov=100",
+      "cid": "1506759323579351630",
+      "fid": "0x94ce648b082c8959:0x14e9159f23f4824e",
+      "placeId": "ChIJWYksCItkzpQRToL0I58V6RQ",
+      "distance_meters": 2778
+    },
+    {
+      "position": 9,
+      "title": "Loja de Umbanda Ogum Rompe Mato",
+      "address": "Estrada Dom João Nery, 4347 - Jardim Lourdes, São Paulo - SP, 08452-340, Brasil",
+      "latitude": -23.5298221,
+      "longitude": -46.3966603,
+      "rating": 4.5,
+      "ratingCount": 57,
+      "type": "Loja de artigos religiosos",
+      "types": [
+        "Loja de artigos religiosos"
+      ],
+      "phoneNumber": "+55 11 98788-9247",
+      "openingHours": {
+        "quinta-feira": "09:30–19:00",
+        "sexta-feira": "09:30–19:00",
+        "sábado": "09:30–19:00",
+        "domingo": "Fechado",
+        "segunda-feira": "09:30–19:00",
+        "terça-feira": "09:30–19:00",
+        "quarta-feira": "09:30–19:00"
+      },
+      "thumbnailUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLdnOJ_6bhqOcYD1_a8-UGSBHdd0jgXgyatJ5jjGIfh4Fl93hjtYMYMkTJyktGfylJE1yQ2zOKH463ZVsxDwzMe9-ARRn7GH_-_LTsqZxNg6NtNwt_0L3EEp550wr7_KWx9c52lZKw",
+      "cid": "3108742367410850864",
+      "fid": "0x94ce64f6d77886f5:0x2b2478b65bbb0c30",
+      "placeId": "ChIJ9YZ41_ZkzpQRMAy7W7Z4JCs",
+      "distance_meters": 2866
+    },
+    {
+      "position": 8,
+      "title": "Loja Passabela",
+      "address": "R. Henrique Montes, 88 - Jardim Lourdes, São Paulo - SP, 08452-460, Brasil",
+      "latitude": -23.5289727,
+      "longitude": -46.3934601,
+      "rating": 3.8,
+      "ratingCount": 4,
+      "type": "Loja de cosmético",
+      "types": [
+        "Loja de cosmético"
+      ],
+      "website": "https://passabela.com.br/",
+      "phoneNumber": "+55 11 3497-3646",
+      "openingHours": {
+        "quinta-feira": "08:00–18:00",
+        "sexta-feira": "08:00–18:00",
+        "sábado": "08:00–15:00",
+        "domingo": "Fechado",
+        "segunda-feira": "08:00–18:00",
+        "terça-feira": "08:00–18:30",
+        "quarta-feira": "08:00–18:00"
+      },
+      "thumbnailUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLfNaEUC60WgoN1GGJX2EJNtXCl-bXEQ9MXqn7oxcwgkMxZWKOOzCR_160VDrRPDqmrOQo98n4ruRTVmOGdRB_SlJmbmV2yfkMgS8bE38Rz2Xc3w2vNb7IiZTqatdlN9Msg-NWyp",
+      "cid": "8046801925420989981",
+      "fid": "0x94ce64f054396287:0x6fabfbb7a6a5be1d",
+      "placeId": "ChIJh2I5VPBkzpQRHb6lprf7q28",
+      "distance_meters": 3177
+    },
+    {
+      "position": 19,
+      "title": "Loja De Roupas Masculinas em Guaianases - ImportsHL",
+      "address": "Loja De Roupas Masculinas - Rua Francisco de Soutomaior, 417 - Guaianases, São Paulo - SP, 08452-430, Brasil",
+      "latitude": -23.5258382,
+      "longitude": -46.3902402,
+      "rating": 4.5,
+      "ratingCount": 6,
+      "type": "Loja de moda masculina",
+      "types": [
+        "Loja de moda masculina"
+      ],
+      "phoneNumber": "+55 11 99344-5774",
+      "openingHours": {
+        "quinta-feira": "10:00–19:00",
+        "sexta-feira": "10:00–19:00",
+        "sábado": "10:00–19:00",
+        "domingo": "Fechado",
+        "segunda-feira": "10:00–19:00",
+        "terça-feira": "10:00–19:00",
+        "quarta-feira": "10:00–19:00"
+      },
+      "thumbnailUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLftIHSRY73HhX2GGjX5QL6kzxSVsmmO6Q8JLhWmo9mROYdZsbUjc3R1o6tovF33JPhqHG6kA-IRAUpszbfKxrz6v1xITWIlsloa38q8dm9ZGhRiSN6BiyyYUqjtC3H7iDOK8lY",
+      "cid": "17758217658200798749",
+      "fid": "0x94ce6522b37d4bd1:0xf671dcdf8120b61d",
+      "placeId": "ChIJ0Ut9syJlzpQRHbYggd_ccfY",
+      "distance_meters": 3485
+    },
+    {
+      "position": 5,
+      "title": "Rua Francisco de Soutomaior, 442 - Lj 2 Guaianases - Jardim Lourdes",
+      "address": "Rua Francisco de Soutomaior, 442 - Jardim Lourdes, São Paulo - SP, 08452-430, Brasil",
+      "latitude": -23.5257827,
+      "longitude": -46.3899063,
+      "thumbnailUrl": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=Av_9v3-XDt7bq7Nb8kDeFw&cb_client=search.gws-prod.grass&w=80&h=92&yaw=137.61852&pitch=0&thumbfov=100",
+      "cid": "6418637044135315812",
+      "fid": "0x94ce64ee6d9efccd:0x591394625dd94964",
+      "placeId": "ChIJzfyebe5kzpQRZEnZXWKUE1k",
+      "distance_meters": 3519
+    },
+    {
+      "position": 18,
+      "title": "R. Ulisses Guimarães, 64 - Lj 2 - Jardim Lourdes",
+      "address": "R. Ulisses Guimarães, 64 - Jardim Lourdes, São Paulo - SP, 08452-651, Brasil",
+      "latitude": -23.527405899999998,
+      "longitude": -46.3897115,
+      "thumbnailUrl": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=QZwj-CdoUuubxQPHyfXjYw&cb_client=search.gws-prod.grass&w=80&h=92&yaw=201.4618&pitch=0&thumbfov=100",
+      "cid": "5594925038974480541",
+      "fid": "0x94ce64ee4cb6d4a5:0x4da52aae0503309d",
+      "placeId": "ChIJpdS2TO5kzpQRnTADBa4qpU0",
+      "distance_meters": 3544
+    }
+  ]
+}
